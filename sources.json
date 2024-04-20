@@ -1,0 +1,46 @@
+{
+  "agua": {
+    "inegi": {
+      "datos": [
+        {
+          "tipo": "xlsx",
+          "ano": 2023,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2023/tabulados/cngmd2023_agua_saneam.xlsx"
+        },
+        {
+          "tipo": "xlsx",
+          "ano": 2021,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2021/tabulados/cngmd2021_agua_saneam.xlsx"
+        },
+        {
+          "tipo": "xlsx",
+          "ano": 2019,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2019/tabulados/CNGMD2019_M5.xlsx"
+        },
+        {
+          "tipo": "xlsx",
+          "ano": 2017,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2017/tabulados/CNGMD2017_M5.xlsx"
+        },
+        {
+          "tipo": "xlsx",
+          "ano": 2015,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2015/tabulados/m5_cngmd_2015.xlsx"
+        },
+        {
+          "tipo": ["zip", "xlsx"],
+          "data": "/cngmd2013_agua_xlsx/05_Agua_Potable_y_Saneamiento_2013_.xlsx",
+          "ano": 2013,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2013/tabulados/cngmd2013_agua_xlsx.zip"
+        },
+        {
+          "tipo": ["zip", "xlsx"],
+          "data": "/cngmd2011_agua_xlsx/05_Agua_Potable_y_Saneamiento_2011_.xlsx",
+          "ano": 2011,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2011/tabulados/cngmd2011_agua_xlsx.zip"
+        }
+
+      ]
+    }
+  }
+}
