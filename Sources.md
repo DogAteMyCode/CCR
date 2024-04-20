@@ -2,6 +2,6 @@
 
 [Agua por Estado](https://www.inegi.org.mx/programas/cngmd/2023/#tabulados)
 
-[Calidad de Agua por Estado]([https://www.inegi.org.mx/programas/cngmd/2023/#tabulados](https://www.gob.mx/conagua/articulos/calidad-del-agua))
+[Calidad de Agua por Estado](https://www.gob.mx/conagua/articulos/calidad-del-agua)
 
 
