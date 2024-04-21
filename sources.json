@@ -1,45 +1,35 @@
 {
-  "agua": {
+  "water": {
     "inegi": {
-      "datos": [
+      "data": [
         {
-          "tipo": "xlsx",
-          "ano": 2023,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2023/tabulados/cngmd2023_agua_saneam.xlsx"
+          "type": ["zip", "csv"],
+          "name": ["datos_agua_2015", "catalogo_entidad_2015"],
+          "data": ["Serv_agua_red_cngmd2015_csv/conjunto_de_datos/secc_i_tr_cngmd15_m5.csv", "Serv_agua_red_cngmd2015_csv/catalogos/secc_i_ttc_entidad.csv"],
+          "year": 2015,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2015/datosabiertos/m5/Serv_agua_red_cngmd2015_csv.zip"
         },
         {
-          "tipo": "xlsx",
-          "ano": 2021,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2021/tabulados/cngmd2021_agua_saneam.xlsx"
+          "type": ["zip", "csv"],
+          "name": ["datos_agua_2017", "catalogo_entidad_2017"],
+          "data": ["serv_agua_red_cngmd2017_csv/conjunto_de_datos/secc_i_tr_m5_2016.csv", "serv_agua_red_cngmd2017_csv/catalogos/ttc_entidades_2016.csv"],
+          "year": 2017,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2017/datosabiertos/m5/serv_agua_red_cngmd2017_csv.zip"
         },
         {
-          "tipo": "xlsx",
-          "ano": 2019,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2019/tabulados/CNGMD2019_M5.xlsx"
+          "type": ["zip", "csv"],
+          "name": ["datos_agua_2019", "catalogo_entidad_2019"],
+          "data": ["serv_agua_cngmd2019_csv/conjunto_de_datos/secc_i_tr_m5_2018.csv", "serv_agua_cngmd2019_csv/catalogos/tc_entidad_2018.csv"],
+          "year": 2019,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2019/datosabiertos/m5/serv_agua_cngmd2019_csv.zip"
         },
         {
-          "tipo": "xlsx",
-          "ano": 2017,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2017/tabulados/CNGMD2017_M5.xlsx"
-        },
-        {
-          "tipo": "xlsx",
-          "ano": 2015,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2015/tabulados/m5_cngmd_2015.xlsx"
-        },
-        {
-          "tipo": ["zip", "xlsx"],
-          "data": "/cngmd2013_agua_xlsx/05_Agua_Potable_y_Saneamiento_2013_.xlsx",
-          "ano": 2013,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2013/tabulados/cngmd2013_agua_xlsx.zip"
-        },
-        {
-          "tipo": ["zip", "xlsx"],
-          "data": "/cngmd2011_agua_xlsx/05_Agua_Potable_y_Saneamiento_2011_.xlsx",
-          "ano": 2011,
-          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2011/tabulados/cngmd2011_agua_xlsx.zip"
+          "type": ["zip", "csv"],
+          "name": ["datos_agua_2021", "catalogo_entidad_2021"],
+          "data": ["conjunto_de_datos/servagua_cngmd2021.csv", "catalogos/entidad_cngmd2021.csv"],
+          "year": 2021,
+          "url": "https://www.inegi.org.mx/contenidos/programas/cngmd/2021/datosabiertos/m5/servicio_agua_red_publica_cngmd2021_csv.zip"
         }
-
       ]
     }
   }
