@@ -139,7 +139,8 @@ if __name__ == "__main__":
 
     data_dict = [d._asdict() for d in data]
 
-    os.mkdir('TempData')
+    if not os.path.isdir('TempData'):
+        os.mkdir('TempData')
     for dictionary, data_frame in zip(data_dict, data_frames):
         if dictionary['data_file_type_z'] is not None:
             path = os.path.join('TempData',
@@ -150,5 +151,8 @@ if __name__ == "__main__":
         dictionary['data_file_location'] = path
         data_frame.to_pickle(path)
 
-    with open("tempdata.json", 'a+', encoding='utf-8') as f:
-        json.dump(data_dict, f)
+    with open("tempdata.json", 'r', encoding='utf-8') as f:
+        temp_data = json.load(f)
+
+    with open("tempdata.json", 'w', encoding='utf-8') as f:
+        json.dump(data_dict+temp_data, f)

@@ -25,5 +25,14 @@
     "data_location_z": null,
     "data_file_type_z": null,
     "data_file_location": "TempData\\reportes de agua--6712504933579872013-csv.pkl"
+  },
+  {
+    "name": "consumo",
+    "data_location": "https://datos.cdmx.gob.mx/dataset/90c2d309-9e86-4d7e-83c6-7dcd72ccddac/resource/8851ebda-9311-44e8-a801-e66bdeda70bc/download/consumo-habitacional-promedio-bimestral-de-agua-por-colonia-m3.json",
+    "data_file_type": "geojson",
+    "data_sheet_name": null,
+    "data_location_z": null,
+    "data_file_type_z": null,
+    "data_file_location": "TempData\\consumo-1127945355642883234-geojson.pkl"
   }
 ]
