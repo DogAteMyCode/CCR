@@ -7,6 +7,7 @@ import zipfile
 from typing import NamedTuple
 
 import pandas as pd
+import geopandas as gpd
 from chardet import detect
 import urllib.request as request
 
@@ -54,6 +55,8 @@ if __name__ == "__main__":
             file_types.append('csv')
         elif location.endswith('.xlsx') or location.endswith('.xls') or location.endswith('xlsb'):
             file_types.append('xlsx')
+        elif location.endswith('json') or location.endswith('.geojson'):
+            file_types.append('geojson')
 
 
     class DataSource(NamedTuple):
@@ -88,6 +91,13 @@ if __name__ == "__main__":
             data_frames.append(df)
             data.append(ds)
 
+        elif file_type == "geojson":
+            name_to_use = input("Enter name to use: ")
+            df = gpd.read_file(location)
+            ds = DataSource(name_to_use, location, 'geojson', None, None, None)
+            data_frames.append(df)
+            data.append(ds)
+
         if file_type == "zip":
             zip_data = read_zip_file(location)
             files = zip_data.namelist()
@@ -117,6 +127,13 @@ if __name__ == "__main__":
                     meta = detect(zip_data.read(location_z))
                     df = read_csv_file_bytes(file, meta['encoding'])
                     ds = DataSource(name_to_use, location, 'zip', None, location_z, 'csv')
+                    data_frames.append(df)
+                    data.append(ds)
+
+                elif file_type_z == "geojson":
+                    name_to_use = input("Enter name to use: ")
+                    df = gpd.read_file(location_z)
+                    ds = DataSource(name_to_use, location, 'csv', None, location_z, 'geojson')
                     data_frames.append(df)
                     data.append(ds)
 

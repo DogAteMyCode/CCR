@@ -1,74 +1,29 @@
 [
   {
-    "name": "datos_agua_2015",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2015/datosabiertos/m5/Serv_agua_red_cngmd2015_csv.zip",
-    "data_file_type": "zip",
+    "name": "factibilidad hidrica",
+    "data_location": "https://datos.cdmx.gob.mx/dataset/6f6d6748-013f-4f93-936a-7bb5ee93dc4a/resource/e86ca7b1-2fed-4439-af4d-761dff60ab32/download/factibilidad-hdrica.json",
+    "data_file_type": "geojson",
     "data_sheet_name": null,
-    "data_location_z": "Serv_agua_red_cngmd2015_csv/conjunto_de_datos/secc_i_tr_cngmd15_m5.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\datos_agua_2015-3130552839297745818-csv.pkl"
+    "data_location_z": null,
+    "data_file_type_z": null,
+    "data_file_location": "TempData\\factibilidad hidrica-8545420136091899865-geojson.pkl"
   },
   {
-    "name": "catalogo_entidad_2015",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2015/datosabiertos/m5/Serv_agua_red_cngmd2015_csv.zip",
-    "data_file_type": "zip",
+    "name": "historico de reportes de agua",
+    "data_location": "https://datos.cdmx.gob.mx/dataset/57ffc13a-7207-4b69-a9a9-2fef3fce6331/resource/65a6b1a6-5d6e-49b9-aeed-ca7b22e8de03/download/reportes_agua_hist.csv",
+    "data_file_type": "csv",
     "data_sheet_name": null,
-    "data_location_z": "Serv_agua_red_cngmd2015_csv/catalogos/secc_i_ttc_entidad.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\catalogo_entidad_2015--1803208128906229441-csv.pkl"
+    "data_location_z": null,
+    "data_file_type_z": null,
+    "data_file_location": "TempData\\historico de reportes de agua-2838484232597766584-csv.pkl"
   },
   {
-    "name": "datos_agua_2017",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2017/datosabiertos/m5/serv_agua_red_cngmd2017_csv.zip",
-    "data_file_type": "zip",
+    "name": "reportes de agua",
+    "data_location": "https://datos.cdmx.gob.mx/dataset/57ffc13a-7207-4b69-a9a9-2fef3fce6331/resource/a8069e94-c7cb-45d7-8166-561e80884422/download/reportes_agua_2024_01.csv",
+    "data_file_type": "csv",
     "data_sheet_name": null,
-    "data_location_z": "serv_agua_red_cngmd2017_csv/conjunto_de_datos/secc_i_tr_m5_2016.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\datos_agua_2017-8223768571874016182-csv.pkl"
-  },
-  {
-    "name": "catalogo_entidad_2017",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2017/datosabiertos/m5/serv_agua_red_cngmd2017_csv.zip",
-    "data_file_type": "zip",
-    "data_sheet_name": null,
-    "data_location_z": "serv_agua_red_cngmd2017_csv/catalogos/ttc_entidades_2016.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\catalogo_entidad_2017--5314027844976416976-csv.pkl"
-  },
-  {
-    "name": "datos_agua_2019",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2019/datosabiertos/m5/serv_agua_cngmd2019_csv.zip",
-    "data_file_type": "zip",
-    "data_sheet_name": null,
-    "data_location_z": "serv_agua_cngmd2019_csv/conjunto_de_datos/secc_i_tr_m5_2018.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\datos_agua_2019-5883296419018463746-csv.pkl"
-  },
-  {
-    "name": "catalogo_entidad_2019",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2019/datosabiertos/m5/serv_agua_cngmd2019_csv.zip",
-    "data_file_type": "zip",
-    "data_sheet_name": null,
-    "data_location_z": "serv_agua_cngmd2019_csv/catalogos/tc_entidad_2018.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\catalogo_entidad_2019-3927703568446628852-csv.pkl"
-  },
-  {
-    "name": "datos_agua_2021",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2021/datosabiertos/m5/servicio_agua_red_publica_cngmd2021_csv.zip",
-    "data_file_type": "zip",
-    "data_sheet_name": null,
-    "data_location_z": "conjunto_de_datos/servagua_cngmd2021.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\datos_agua_2021-2313047506544426337-csv.pkl"
-  },
-  {
-    "name": "catalogo_entidad_2021",
-    "data_location": "https://www.inegi.org.mx/contenidos/programas/cngmd/2021/datosabiertos/m5/servicio_agua_red_publica_cngmd2021_csv.zip",
-    "data_file_type": "zip",
-    "data_sheet_name": null,
-    "data_location_z": "catalogos/entidad_cngmd2021.csv",
-    "data_file_type_z": "csv",
-    "data_file_location": "TempData\\catalogo_entidad_2021-6299664315969675057-csv.pkl"
+    "data_location_z": null,
+    "data_file_type_z": null,
+    "data_file_location": "TempData\\reportes de agua--6712504933579872013-csv.pkl"
   }
 ]

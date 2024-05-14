@@ -5,6 +5,7 @@ import json
 import os
 import zipfile
 from typing import NamedTuple
+from sources import multiline_input
 
 import pandas as pd
 from chardet import detect
@@ -26,9 +27,22 @@ class Replacements(NamedTuple):
     replacement: str | int | float
 
 
+def multiline_input_replacements(prompt: str) -> list[Replacements]:
+    out = []
+    while True:
+        print("To finish enter ;")
+        inp = input(prompt)
+        if inp == ";":
+            break
+
+        out.append(Replacements(*inp.split(',')))
+    return out
+
+
 class CleaningMethod(NamedTuple):
     data_source: DataSource
     replacements: list[Replacements]
+    columns: list[Replacements]
     drop_na: bool = True
 
 
@@ -41,3 +55,16 @@ for data_bite in data:
     df = pd.read_pickle(data_bite.data_file_location)
     print(data_bite.name)
     print(df.columns)
+    cols = multiline_input_replacements('Columns to use and their new name separated by comma\n'
+                                        'to exclude column, don\'t include it in the list\n'
+                                        ' (column name,new column name): ')
+    cols = dict(cols)
+    df = df.rename(columns=cols)
+    df = df[cols.values()]
+    for col in df.columns:
+        print(col)
+        print('Unique values are', df[col].unique())
+        val_to_drop = multiline_input('Values to drop: ')
+        df.drop(df[df[col].astype(str).isin(val_to_drop)].index, inplace=True)
+
+    print(df)
