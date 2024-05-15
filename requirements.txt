@@ -5,3 +5,6 @@ numpy
 plotly
 matplotlib
 chardet
+psutil
+plotly-orca
+orca

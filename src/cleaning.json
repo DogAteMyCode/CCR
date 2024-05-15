@@ -146,5 +146,39 @@
       "PROMVIVCON": "promedio por numero de viviendas"
     },
     "drop_na": true
+  },
+  "TempData\\violencia por colonia--853703893629844035-geojson.pkl": {
+    "data_source": {
+      "name": "violencia por colonia",
+      "data_location": "https://datos.cdmx.gob.mx/dataset/75fda961-2c64-4671-bdef-a61feb1ec1cb/resource/12d71b2e-1ae0-44e8-8ee8-7c5e3489adde/download/grado-de-marginalidad-y-violencia-urbana-por-colonia-en-la-ciudad-de-mxico.json",
+      "data_file_type": "geojson",
+      "data_file_location": "TempData\\violencia por colonia--853703893629844035-geojson.pkl",
+      "data_sheet_name": null,
+      "data_location_z": null,
+      "data_file_type_z": null
+    },
+    "col_values_to_drop": {
+      "id": [],
+      "clave de entidad": [
+        "None"
+      ],
+      "alcaldia": [],
+      "clave de colonia": [],
+      "colonia": [],
+      "poblacion de 2010": [],
+      "marginalidad y violencia": [],
+      "geometry": []
+    },
+    "columns": {
+      "ID": "id",
+      "cve_ent": "clave de entidad",
+      "alcaldia": "alcaldia",
+      "cve_col": "clave de colonia",
+      "colonia": "colonia",
+      "pob_2010": "poblacion de 2010",
+      "C_US": "marginalidad y violencia",
+      "geometry": "geometry"
+    },
+    "drop_na": false
   }
 }

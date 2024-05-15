@@ -1,5 +1,8 @@
 import json
+import os.path
+
 import pandas as pd
+import geopandas as gpd
 import plotly.express as px
 import plotly.graph_objects as go
 
@@ -31,6 +34,7 @@ class Data:
 
     def get_db(self, key):
         source = self.clean_sources[key]
+
         db = pd.read_pickle(source.data_source.data_file_location)
         cols = source.columns
         db = db.rename(columns=cols)
@@ -52,5 +56,25 @@ class Data:
 
 if __name__ == '__main__':
     data = Data('cleaning.json')
-    print(data['consumo'])
     print(data)
+    # db_data: gpd.GeoDataFrame = data['factibilidad hidrica']
+    # db_data['n_id'] = range(len(db_data))
+    #
+    # fig = px.choropleth_mapbox(data_frame=db_data, geojson=db_data.geometry,
+    #                            locations='n_id', featureidkey='id',
+    #                            color='factibilidad hidrica',
+    #                            color_discrete_sequence=['red', 'yellow', 'orange', 'green'],
+    #                            mapbox_style="carto-positron",
+    #                            opacity=0.5, center={"lat": 19.3657, "lon": -99.1318}, zoom=9.3,
+    #                            hover_data=['delegacion'], title='Factibilidad hídrica en la ciudad de méxico')
+    # fig.update_geos(fitbounds="locations")
+    # # fig.show()
+    # if not os.path.isdir('figures'):
+    #     os.mkdir('figures')
+    # fig.write_image('figures/factibilidad_hidrica.png', width=650, height=650, scale=15, engine='orca')
+    # del db_data
+
+    db_data = data['consumo']
+    geo_data = gpd.read_file('alcaldias.json')
+    print(tuple(sorted(map(lambda x: x.lower(), db_data['alcaldia'].unique()))))
+    print(tuple(sorted(map(lambda x: x.lower(),geo_data['NOMBRE'].unique()))))
