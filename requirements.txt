@@ -3,8 +3,11 @@ pandas
 openpyxl
 numpy
 plotly
+requests
+kaleido
+plotly-orca
 matplotlib
 chardet
 psutil
-plotly-orca
+unidecode
 orca
