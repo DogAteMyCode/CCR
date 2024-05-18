@@ -59,6 +59,8 @@ def read_data_source(data_source: DataSource) -> pd.DataFrame | gpd.GeoDataFrame
         db = pd.read_pickle(data_source.data_file_location)
         return db
     except FileNotFoundError:
+        if not os.path.isdir('TempData'):
+            os.mkdir('TempData')
         if data_source.data_file_type == "xlsx":
             excel_file = read_xlsx_file(data_source.data_location)
             db = excel_file[data_source.data_sheet_name]
@@ -209,14 +211,14 @@ if __name__ == "__main__":
 
     data_dict = [d._asdict() for d in data]
 
-    if not os.path.isdir('TempData'):
-        os.mkdir('TempData')
+    if not os.path.isdir('Test'):
+        os.mkdir('Test')
     for dictionary, data_frame in zip(data_dict, data_frames):
         if dictionary['data_file_type_z'] is not None:
-            path = os.path.join('TempData',
+            path = os.path.join('Test',
                                 f'{dictionary["name"]}-{hash(DataSource(**dictionary))}-{dictionary["data_file_type_z"]}.pkl')
         else:
-            path = os.path.join('TempData',
+            path = os.path.join('Test',
                                 f'{dictionary["name"]}-{hash(DataSource(**dictionary))}-{dictionary["data_file_type"]}.pkl')
         dictionary['data_file_location'] = path
         data_frame.to_pickle(path)
