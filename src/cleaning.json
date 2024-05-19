@@ -206,5 +206,49 @@
       "geometry": "geometry"
     },
     "drop_na": true
+  },
+  "TempData\\moneee--5841746255771867207-geojson.pkl": {
+    "data_source": {
+      "name": "moneee",
+      "data_location": "https://datos.cdmx.gob.mx/dataset/de76f107-bfea-47ee-87e9-d2c81722e796/resource/1e53fc1a-d4de-4735-8a1a-6dd622f0ae06/download/ingresos_trimestrales.zip",
+      "data_file_type": "csv",
+      "data_file_location": "TempData\\moneee--5841746255771867207-geojson.pkl",
+      "data_sheet_name": null,
+      "data_location_z": "ingresos_trimestrales/ingresos_trimestrales.shp",
+      "data_file_type_z": "geojson"
+    },
+    "col_values_to_drop": {
+      "geo": []
+    },
+    "columns": {
+      "CVEGEO": "geo"
+    },
+    "drop_na": true
+  },
+  "TempData\\money-4474681937536849832-geojson.pkl": {
+    "data_source": {
+      "name": "money",
+      "data_location": "https://datos.cdmx.gob.mx/dataset/de76f107-bfea-47ee-87e9-d2c81722e796/resource/1e53fc1a-d4de-4735-8a1a-6dd622f0ae06/download/ingresos_trimestrales.zip",
+      "data_file_type": "csv",
+      "data_file_location": "TempData\\money-4474681937536849832-geojson.pkl",
+      "data_sheet_name": null,
+      "data_location_z": "ingresos_trimestrales/ingresos_trimestrales.shp",
+      "data_file_type_z": "geojson"
+    },
+    "col_values_to_drop": {
+      "geo": [
+        "0900200010383"
+      ],
+      "income": [],
+      "geometry": [],
+      "id": []
+    },
+    "columns": {
+      "CVEGEO": "geo",
+      "IngMon_14": "income",
+      "geometry": "geometry",
+      "ID": "id"
+    },
+    "drop_na": true
   }
 }

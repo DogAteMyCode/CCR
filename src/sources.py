@@ -211,14 +211,14 @@ if __name__ == "__main__":
 
     data_dict = [d._asdict() for d in data]
 
-    if not os.path.isdir('Test'):
-        os.mkdir('Test')
+    if not os.path.isdir('TempData'):
+        os.mkdir('TempData')
     for dictionary, data_frame in zip(data_dict, data_frames):
         if dictionary['data_file_type_z'] is not None:
-            path = os.path.join('Test',
+            path = os.path.join('TempData',
                                 f'{dictionary["name"]}-{hash(DataSource(**dictionary))}-{dictionary["data_file_type_z"]}.pkl')
         else:
-            path = os.path.join('Test',
+            path = os.path.join('TempData',
                                 f'{dictionary["name"]}-{hash(DataSource(**dictionary))}-{dictionary["data_file_type"]}.pkl')
         dictionary['data_file_location'] = path
         data_frame.to_pickle(path)
