@@ -91,7 +91,7 @@ with zipfile.ZipFile('contaminantes_2022.zip') as f:
     data_contaminantes = json.loads(f.read('contaminantes_2022.json'))
 
 # Cargar el archivo GeoJSON de la Ciudad de México
-with open('alcaldias_cdmx.json', encoding='latin1') as file:
+with open('alcaldias_cdmx.json', encoding='utf-8') as file:
     cdmx_geojson = json.load(file)
 
 # Añadir coordenadas geográficas para las estaciones
@@ -245,7 +245,7 @@ nbi_df['nbi_value'] = nbi_df['e_nbi'].map(nbi_levels)
 # Calcular el promedio ponderado por alcaldía
 nbi_promedio = nbi_df.groupby('alcaldia').apply(
     lambda x: (x['nbi_value'] * x['pop_tot']).sum() / x['pop_tot'].sum()).reset_index(name='nbi_promedio')
-
+print(nbi_promedio)
 
 def plot_nbi_cdmx(df, title, geojson):
     fig = px.choropleth_mapbox(
