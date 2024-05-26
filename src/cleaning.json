@@ -284,5 +284,29 @@
       "pop_tot_upp": "pop_tot_upp"
     },
     "drop_na": false
+  },
+  "TempData\\indice de desarrollo--5682699763979085679-xlsx.pkl": {
+    "data_source": {
+      "name": "indice de desarrollo",
+      "data_location": "https://www.evalua.cdmx.gob.mx/storage/app/media/2021/estadistica/indice-de-desarrollo-social-2020.xlsx",
+      "data_file_type": "xlsx",
+      "data_file_location": "TempData\\indice de desarrollo--5682699763979085679-xlsx.pkl",
+      "data_sheet_name": "IDS_Alcaldia",
+      "data_location_z": null,
+      "data_file_type_z": null
+    },
+    "col_values_to_drop": {
+      "Clave": [],
+      "alcaldia": [],
+      "IDS": [],
+      "E_IDS_V": []
+    },
+    "columns": {
+      "Clave": "Clave",
+      "alcaldia": "alcaldia",
+      "IDS": "IDS",
+      "E_IDS_V": "E_IDS_V"
+    },
+    "drop_na": false
   }
 }

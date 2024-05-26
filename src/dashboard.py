@@ -247,6 +247,7 @@ nbi_promedio = nbi_df.groupby('alcaldia').apply(
     lambda x: (x['nbi_value'] * x['pop_tot']).sum() / x['pop_tot'].sum()).reset_index(name='nbi_promedio')
 print(nbi_promedio)
 
+
 def plot_nbi_cdmx(df, title, geojson):
     fig = px.choropleth_mapbox(
         df,
@@ -284,8 +285,48 @@ figure_necesidades = plot_nbi_cdmx(nbi_promedio, 'Índice de Necesidades Básica
 
 #######################################################################################################################
 
+ids_alcaldias_df = data['indice de desarrollo']
 
-print('Creating app')
+# Definir la escala de colores personalizada
+estrato_colors = {
+    'Muy bajo': '#870000',  # Vino
+    'Bajo': '#DF0000',  # Rojo
+    'Medio': '#FA4711',  # Naranja
+    'Alto': '#FF995E',  # Amarillo dorado
+    'Muy alto': '#FFC5A4'  # Amarillo
+}
+
+# Asignar el color correspondiente a cada estrato en una nueva columna
+ids_alcaldias_df['color'] = ids_alcaldias_df['E_IDS_V'].map(estrato_colors)
+
+
+# Crear una función para graficar el IDS por manzanas
+def plot_ids_alcaldias(df, title, geojson):
+    fig = px.choropleth_mapbox(
+        df,
+        geojson=geojson,
+        locations='alcaldia',
+        featureidkey='properties.NOMGEO',
+        color='E_IDS_V',
+        color_discrete_map=estrato_colors,
+        mapbox_style="carto-darkmatter",
+        zoom=8.8,
+        center={"lat": 19.3657, "lon": -99.1318},
+        opacity=0.5,
+        labels={'E_IDS_V': 'IDS'},
+        title=title,
+        height=600,
+        template='cerulean+plotly_dark'
+    )
+
+    return fig
+
+
+# Graficar el IDS por alcaldia
+figure_desarrollo = plot_ids_alcaldias(ids_alcaldias_df, 'Índice de Desarrollo Social por Alcaldía (2020)', cdmx_geojson)
+
+#######################################################################################################################
+
 
 import dash_bootstrap_components as dbc
 from dash import Dash, html, dcc
@@ -313,7 +354,7 @@ app.layout = dbc.Container([
     ]),
     dbc.Row([
         dbc.Col([dcc.Graph(figure=figure_O3), dcc.Graph(figure=figure_CO)]),
-        dbc.Col([dcc.Graph(figure=figure_necesidades)])
+        dbc.Col([dcc.Graph(figure=figure_necesidades), dcc.Graph(figure=figure_desarrollo)])
     ]),
     dbc.Row([
         dbc.ListGroup([
@@ -325,7 +366,8 @@ app.layout = dbc.Container([
             dbc.ListGroupItem([
                 dbc.CardLink([
                     html.H6('Consumo'),
-                ], href="https://datos.cdmx.gob.mx/dataset/consumo-habitacional-promedio-bimestral-de-agua-por-colonia-m3")
+                ],
+                    href="https://datos.cdmx.gob.mx/dataset/consumo-habitacional-promedio-bimestral-de-agua-por-colonia-m3")
             ]),
             dbc.ListGroupItem([
                 dbc.CardLink([
@@ -344,6 +386,12 @@ app.layout = dbc.Container([
                     html.H6('Calidad del Aire'),
                 ],
                     href="http://www.aire.cdmx.gob.mx/default.php?opc=%27aKBhnmI=%27&opcion=aw==")
+            ]),
+            dbc.ListGroupItem([
+                dbc.CardLink([
+                    html.H6('Indice de Desarrollo'),
+                ],
+                    href="https://evalua.cdmx.gob.mx/principales-atribuciones/medicion-del-indice-de-desarrollo-social-de-las-unidades-territoriales/medicion-del-indice-de-desarrollo-social-de-las-unidades-territoriales/bases-de-datos")
             ])
         ])
     ])
