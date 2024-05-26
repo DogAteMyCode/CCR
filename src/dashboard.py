@@ -299,7 +299,7 @@ app.layout = dbc.Container([
         html.Hr()
     ]),
     dbc.Row([
-        html.H4('Correlación entre acceso al agua, violencia '),
+        html.H4('Correlación entre acceso al agua, violencia, contaminación y acceso a recursos'),
         html.Hr()
     ]),
     dbc.Row([
