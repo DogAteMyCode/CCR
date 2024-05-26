@@ -1,0 +1,916 @@
+e_nbi,alcaldia,grup_eda,sexo,pop_tot,pop_tot_cv,pop_tot_se,pop_tot_low,pop_tot_upp
+Pobreza muy alta,Azcapotzalco,0 a 11,Hombre,1431,.18931259,270.90631,985.19385,1876.8062
+Pobreza muy alta,Azcapotzalco,0 a 11,Mujer,1331,.2139177,284.72446,862.45453,1799.5455
+Pobreza muy alta,Azcapotzalco,12 a 29,Hombre,1567,.22431077,351.49496,988.57629,2145.4238
+Pobreza muy alta,Azcapotzalco,12 a 29,Mujer,1300,.21159863,275.07822,847.32849,1752.6715
+Pobreza muy alta,Azcapotzalco,30 a 44,Hombre,2052,.22283123,457.24969,1299.5453,2804.4548
+Pobreza muy alta,Azcapotzalco,30 a 44,Mujer,1927,.22472599,433.047,1214.3734,2639.6265
+Pobreza muy alta,Azcapotzalco, 45 a 59,Hombre,680,.26012349,176.88397,388.91794,971.08203
+Pobreza muy alta,Azcapotzalco, 45 a 59,Mujer,887,.23394692,207.51091,545.51794,1228.4821
+Pobreza muy alta,Azcapotzalco,60 a 106,Hombre,682,.27123943,184.98529,377.5863,986.4137
+Pobreza muy alta,Azcapotzalco,60 a 106,Mujer,719,.2905423,208.89992,375.23218,1062.7678
+Pobreza muy alta,Coyoacán,0 a 11,Hombre,1736,.25451621,441.84015,1008.9034,2463.0967
+Pobreza muy alta,Coyoacán,0 a 11,Mujer,1537,.2836647,435.99265,819.52606,2254.4739
+Pobreza muy alta,Coyoacán,12 a 29,Hombre,2035,.25883177,526.72266,1168.2198,2901.78
+Pobreza muy alta,Coyoacán,12 a 29,Mujer,1788,.24221587,433.08197,1075.3159,2500.6841
+Pobreza muy alta,Coyoacán,30 a 44,Hombre,2055,.24671561,507.00058,1220.6747,2889.3252
+Pobreza muy alta,Coyoacán,30 a 44,Mujer,2073,.25456622,527.71576,1204.5856,2941.4143
+Pobreza muy alta,Coyoacán, 45 a 59,Hombre,767,.37599742,288.39001,292.42242,1241.5775
+Pobreza muy alta,Coyoacán, 45 a 59,Mujer,1146,.24096513,276.14603,691.57129,1600.4287
+Pobreza muy alta,Coyoacán,60 a 106,Hombre,822,.28470293,234.02582,436.88474,1207.1152
+Pobreza muy alta,Coyoacán,60 a 106,Mujer,649,.35632718,231.25633,268.44223,1029.5577
+Pobreza muy alta,Cuajimalpa de Morelos,0 a 11,Hombre,1528,.31797251,485.862,728.46051,2327.5396
+Pobreza muy alta,Cuajimalpa de Morelos,0 a 11,Mujer,1163,.25879064,300.97351,667.7149,1658.2852
+Pobreza muy alta,Cuajimalpa de Morelos,12 a 29,Hombre,1320,.33687192,444.67096,588.24493,2051.7551
+Pobreza muy alta,Cuajimalpa de Morelos,12 a 29,Mujer,1250,.28064907,350.81131,672.70129,1827.2987
+Pobreza muy alta,Cuajimalpa de Morelos,30 a 44,Hombre,1815,.27106109,491.97589,1005.3995,2624.6006
+Pobreza muy alta,Cuajimalpa de Morelos,30 a 44,Mujer,1414,.24251677,342.9187,849.68945,1978.3105
+Pobreza muy alta,Cuajimalpa de Morelos, 45 a 59,Hombre,687,.29161859,200.34196,357.31522,1016.6848
+Pobreza muy alta,Cuajimalpa de Morelos, 45 a 59,Mujer,598,.28602034,171.04016,316.53455,879.46545
+Pobreza muy alta,Cuajimalpa de Morelos,60 a 106,Hombre,184,.28736511,52.875179,96.98806,271.01193
+Pobreza muy alta,Cuajimalpa de Morelos,60 a 106,Mujer,593,.32327762,191.70363,277.53058,908.46942
+Pobreza muy alta,Gustavo A. Madero,0 a 11,Hombre,4950,.16037084,793.83563,3643.656,6256.3442
+Pobreza muy alta,Gustavo A. Madero,0 a 11,Mujer,4612,.15756151,726.67371,3416.1785,5807.8218
+Pobreza muy alta,Gustavo A. Madero,12 a 29,Hombre,5030,.20390221,1025.6282,3342.2158,6717.7842
+Pobreza muy alta,Gustavo A. Madero,12 a 29,Mujer,4575,.18027692,824.76685,3217.7551,5932.2446
+Pobreza muy alta,Gustavo A. Madero,30 a 44,Hombre,5535,.16253097,899.60895,4054.5942,7015.4058
+Pobreza muy alta,Gustavo A. Madero,30 a 44,Mujer,5335,.15141284,807.78754,4005.6965,6664.3032
+Pobreza muy alta,Gustavo A. Madero, 45 a 59,Hombre,2513,.23380326,587.54761,1546.1257,3479.8743
+Pobreza muy alta,Gustavo A. Madero, 45 a 59,Mujer,3197,.19407775,620.46655,2175.9539,4218.0459
+Pobreza muy alta,Gustavo A. Madero,60 a 106,Hombre,2411,.22503541,542.56036,1518.1571,3303.8428
+Pobreza muy alta,Gustavo A. Madero,60 a 106,Mujer,2786,.23495115,654.57391,1708.8264,3863.1736
+Pobreza muy alta,Iztacalco,0 a 11,Hombre,1695,.2350155,398.35129,1039.4691,2350.531
+Pobreza muy alta,Iztacalco,0 a 11,Mujer,1953,.19195643,374.89093,1336.0757,2569.9243
+Pobreza muy alta,Iztacalco,12 a 29,Hombre,1618,.18422097,298.06952,1127.4938,2108.5063
+Pobreza muy alta,Iztacalco,12 a 29,Mujer,1467,.21497342,315.36603,948.03046,1985.9695
+Pobreza muy alta,Iztacalco,30 a 44,Hombre,1706,.17787299,303.45132,1206.6375,2205.3625
+Pobreza muy alta,Iztacalco,30 a 44,Mujer,1822,.18881142,344.0144,1255.8864,2388.1135
+Pobreza muy alta,Iztacalco, 45 a 59,Hombre,714,.18501157,132.09825,496.61777,931.38226
+Pobreza muy alta,Iztacalco, 45 a 59,Mujer,877,.19270307,169.0006,598.89093,1155.1091
+Pobreza muy alta,Iztacalco,60 a 106,Hombre,553,.217324,120.18018,355.23029,750.76971
+Pobreza muy alta,Iztacalco,60 a 106,Mujer,951,.17498842,166.41399,677.14746,1224.8525
+Pobreza muy alta,Iztapalapa,0 a 11,Hombre,17755,.14617491,2595.3354,13484.09,22025.91
+Pobreza muy alta,Iztapalapa,0 a 11,Mujer,17406,.13810472,2403.8508,13450.199,21361.801
+Pobreza muy alta,Iztapalapa,12 a 29,Hombre,16812,.17447656,2933.3,11984.932,21639.068
+Pobreza muy alta,Iztapalapa,12 a 29,Mujer,16340,.15755644,2574.4724,12103.422,20576.578
+Pobreza muy alta,Iztapalapa,30 a 44,Hombre,17399,.13522263,2352.7385,13527.31,21270.689
+Pobreza muy alta,Iztapalapa,30 a 44,Mujer,19100,.14598557,2788.3245,14511.505,23688.494
+Pobreza muy alta,Iztapalapa, 45 a 59,Hombre,8719,.1654707,1442.739,6344.814,11093.187
+Pobreza muy alta,Iztapalapa, 45 a 59,Mujer,9285,.16595435,1540.8861,6749.3022,11820.698
+Pobreza muy alta,Iztapalapa,60 a 106,Hombre,3800,.21577963,819.96259,2450.6611,5149.3389
+Pobreza muy alta,Iztapalapa,60 a 106,Mujer,8161,.19252512,1571.1975,5575.4214,10746.578
+Pobreza muy alta,La Magdalena Contreras,0 a 11,Hombre,2055,.16337945,335.74475,1502.495,2607.5051
+Pobreza muy alta,La Magdalena Contreras,0 a 11,Mujer,1721,.18429746,317.1759,1199.0521,2242.948
+Pobreza muy alta,La Magdalena Contreras,12 a 29,Hombre,1841,.17387612,320.10596,1314.2303,2367.7695
+Pobreza muy alta,La Magdalena Contreras,12 a 29,Mujer,1861,.17679569,329.01678,1319.5667,2402.4333
+Pobreza muy alta,La Magdalena Contreras,30 a 44,Hombre,2287,.15653615,357.99817,1697.8746,2876.1255
+Pobreza muy alta,La Magdalena Contreras,30 a 44,Mujer,2243,.17462745,391.68939,1598.432,2887.5681
+Pobreza muy alta,La Magdalena Contreras, 45 a 59,Hombre,1414,.21750863,307.55719,907.88074,1920.1193
+Pobreza muy alta,La Magdalena Contreras, 45 a 59,Mujer,1403,.19186674,269.18903,960.01978,1845.9802
+Pobreza muy alta,La Magdalena Contreras,60 a 106,Hombre,710,.18097505,128.49228,498.55179,921.44818
+Pobreza muy alta,La Magdalena Contreras,60 a 106,Mujer,960,.17095278,164.11467,689.93121,1230.0687
+Pobreza muy alta,La Magdalena Contreras,NE,Hombre,15,1,15,-9.6841526,39.684155
+Pobreza muy alta,Milpa Alta,0 a 11,Hombre,2369,.20855959,494.07767,1555.9408,3182.0593
+Pobreza muy alta,Milpa Alta,0 a 11,Mujer,2791,.24610473,686.8783,1660.6661,3921.334
+Pobreza muy alta,Milpa Alta,12 a 29,Hombre,2747,.20621562,566.4743,1814.8041,3679.1958
+Pobreza muy alta,Milpa Alta,12 a 29,Mujer,2493,.20507619,511.25494,1651.6737,3334.3264
+Pobreza muy alta,Milpa Alta,30 a 44,Hombre,3398,.17887133,607.80475,2397.7903,4398.21
+Pobreza muy alta,Milpa Alta,30 a 44,Mujer,3255,.21012095,683.94366,2129.4954,4380.5049
+Pobreza muy alta,Milpa Alta, 45 a 59,Hombre,1131,.22155787,250.58195,718.63977,1543.3602
+Pobreza muy alta,Milpa Alta, 45 a 59,Mujer,1283,.18990913,243.65341,882.04144,1683.9585
+Pobreza muy alta,Milpa Alta,60 a 106,Hombre,868,.30723864,266.68314,429.14349,1306.8566
+Pobreza muy alta,Milpa Alta,60 a 106,Mujer,1200,.18107669,217.29204,842.422,1557.578
+Pobreza muy alta,Álvaro Obregón,0 a 11,Hombre,4598,.15944977,733.15009,3391.5208,5804.479
+Pobreza muy alta,Álvaro Obregón,0 a 11,Mujer,4531,.16852628,763.59259,3274.4243,5787.5757
+Pobreza muy alta,Álvaro Obregón,12 a 29,Hombre,4798,.17164586,823.55682,3442.7463,6153.2534
+Pobreza muy alta,Álvaro Obregón,12 a 29,Mujer,5030,.1658141,834.04498,3657.4871,6402.5127
+Pobreza muy alta,Álvaro Obregón,30 a 44,Hombre,5466,.16771927,916.7536,3957.3809,6974.6191
+Pobreza muy alta,Álvaro Obregón,30 a 44,Mujer,5888,.18739289,1103.3694,4072.2842,7703.7158
+Pobreza muy alta,Álvaro Obregón, 45 a 59,Hombre,2733,.16303098,445.56366,1999.7759,3466.2241
+Pobreza muy alta,Álvaro Obregón, 45 a 59,Mujer,2363,.17823465,421.16849,1669.9209,3056.0791
+Pobreza muy alta,Álvaro Obregón,60 a 106,Hombre,1688,.19646563,331.63397,1142.2598,2233.7402
+Pobreza muy alta,Álvaro Obregón,60 a 106,Mujer,2619,.16964217,444.29285,1887.8672,3350.1328
+Pobreza muy alta,Tláhuac,0 a 11,Hombre,3390,.16324608,553.40424,2479.3123,4300.6875
+Pobreza muy alta,Tláhuac,0 a 11,Mujer,3458,.22541189,779.4743,2175.2891,4740.7109
+Pobreza muy alta,Tláhuac,12 a 29,Hombre,3249,.17049728,553.94568,2337.4214,4160.5786
+Pobreza muy alta,Tláhuac,12 a 29,Mujer,3207,.21774006,698.29236,2057.8831,4356.1172
+Pobreza muy alta,Tláhuac,30 a 44,Hombre,4622,.22123903,1022.5668,2939.2537,6304.7466
+Pobreza muy alta,Tláhuac,30 a 44,Mujer,4195,.24574305,1030.8921,2498.5535,5891.4468
+Pobreza muy alta,Tláhuac, 45 a 59,Hombre,1516,.21267542,322.41592,985.42908,2046.5709
+Pobreza muy alta,Tláhuac, 45 a 59,Mujer,1774,.24156328,428.53323,1068.8014,2479.1987
+Pobreza muy alta,Tláhuac,60 a 106,Hombre,902,.19979246,180.2128,605.44,1198.5601
+Pobreza muy alta,Tláhuac,60 a 106,Mujer,1487,.25216848,374.97452,869.93811,2104.0618
+Pobreza muy alta,Tlalpan,0 a 11,Hombre,5542,.1619339,897.43768,4065.1675,7018.8325
+Pobreza muy alta,Tlalpan,0 a 11,Mujer,6221,.16642468,1035.3279,4517.2539,7924.7461
+Pobreza muy alta,Tlalpan,12 a 29,Hombre,6431,.14410807,926.75903,4905.916,7956.084
+Pobreza muy alta,Tlalpan,12 a 29,Mujer,6072,.15105209,917.18829,4562.6655,7581.3345
+Pobreza muy alta,Tlalpan,30 a 44,Hombre,8401,.17650057,1482.7814,5960.9199,10841.08
+Pobreza muy alta,Tlalpan,30 a 44,Mujer,7062,.18154427,1282.0657,4952.2197,9171.7803
+Pobreza muy alta,Tlalpan, 45 a 59,Hombre,3226,.16759148,540.65015,2336.3005,4115.6992
+Pobreza muy alta,Tlalpan, 45 a 59,Mujer,4159,.14198212,590.50366,3187.2612,5130.7388
+Pobreza muy alta,Tlalpan,60 a 106,Hombre,1892,.19956988,377.58621,1270.6403,2513.3596
+Pobreza muy alta,Tlalpan,60 a 106,Mujer,3108,.19408156,603.20551,2115.3589,4100.6411
+Pobreza muy alta,Tlalpan,NE,Hombre,11,1,11,-7.1017122,29.101711
+Pobreza muy alta,Tlalpan,NE,Mujer,11,1,11,-7.1017122,29.101711
+Pobreza muy alta,Xochimilco,0 a 11,Hombre,5395,.16608351,896.02057,3920.4995,6869.5005
+Pobreza muy alta,Xochimilco,0 a 11,Mujer,5434,.16146526,877.40222,3990.1379,6877.8618
+Pobreza muy alta,Xochimilco,12 a 29,Hombre,6147,.16837415,1034.996,4443.8003,7850.1997
+Pobreza muy alta,Xochimilco,12 a 29,Mujer,5585,.1833097,1023.7847,3900.2495,7269.7505
+Pobreza muy alta,Xochimilco,30 a 44,Hombre,7207,.1727695,1245.1498,5157.9688,9256.0313
+Pobreza muy alta,Xochimilco,30 a 44,Mujer,6522,.16854195,1099.2307,4713.0947,8330.9053
+Pobreza muy alta,Xochimilco, 45 a 59,Hombre,3234,.16768831,542.30402,2341.5791,4126.4209
+Pobreza muy alta,Xochimilco, 45 a 59,Mujer,3724,.17509463,652.05243,2650.9758,4797.0239
+Pobreza muy alta,Xochimilco,60 a 106,Hombre,1789,.1921932,343.83362,1223.1838,2354.8162
+Pobreza muy alta,Xochimilco,60 a 106,Mujer,2886,.20395795,588.62262,1917.3566,3854.6433
+Pobreza muy alta,Benito Juárez,0 a 11,Hombre,249,.37853804,94.255974,93.891411,404.10858
+Pobreza muy alta,Benito Juárez,0 a 11,Mujer,249,.3774125,93.975716,94.352608,403.6474
+Pobreza muy alta,Benito Juárez,12 a 29,Hombre,437,.38694662,169.09567,158.73444,715.26556
+Pobreza muy alta,Benito Juárez,12 a 29,Mujer,493,.42965579,211.8203,144.42635,841.57367
+Pobreza muy alta,Benito Juárez,30 a 44,Hombre,301,.37903836,114.09055,113.25144,488.74857
+Pobreza muy alta,Benito Juárez,30 a 44,Mujer,557,.29887167,166.47153,283.05276,830.94727
+Pobreza muy alta,Benito Juárez, 45 a 59,Hombre,277,.40775236,112.9474,91.132599,462.8674
+Pobreza muy alta,Benito Juárez, 45 a 59,Mujer,246,.4184998,102.95095,76.582863,415.41714
+Pobreza muy alta,Benito Juárez,60 a 106,Hombre,242,.37637085,91.081741,92.114952,391.88504
+Pobreza muy alta,Benito Juárez,60 a 106,Mujer,476,.4129591,196.56853,152.52481,799.47516
+Pobreza muy alta,Cuauhtémoc,0 a 11,Hombre,2661,.24062888,640.31348,1607.2936,3714.7063
+Pobreza muy alta,Cuauhtémoc,0 a 11,Mujer,2453,.26863787,658.96869,1368.5944,3537.4055
+Pobreza muy alta,Cuauhtémoc,12 a 29,Hombre,3003,.32155025,965.61536,1413.9735,4592.0264
+Pobreza muy alta,Cuauhtémoc,12 a 29,Mujer,2664,.31846496,848.39069,1267.8796,4060.1204
+Pobreza muy alta,Cuauhtémoc,30 a 44,Hombre,2764,.29716146,821.35431,1412.371,4115.6289
+Pobreza muy alta,Cuauhtémoc,30 a 44,Mujer,3247,.28051421,910.82965,1748.1294,4745.8706
+Pobreza muy alta,Cuauhtémoc, 45 a 59,Hombre,1595,.26738879,426.48514,893.17175,2296.8284
+Pobreza muy alta,Cuauhtémoc, 45 a 59,Mujer,1908,.23870215,455.4437,1158.5172,2657.4827
+Pobreza muy alta,Cuauhtémoc,60 a 106,Hombre,541,.39813083,215.38878,186.55403,895.44598
+Pobreza muy alta,Cuauhtémoc,60 a 106,Mujer,1008,.26334888,265.45566,571.16345,1444.8365
+Pobreza muy alta,Miguel Hidalgo,0 a 11,Hombre,678,.30585971,207.37289,336.74506,1019.2549
+Pobreza muy alta,Miguel Hidalgo,0 a 11,Mujer,1144,.25171328,287.95999,670.13007,1617.8699
+Pobreza muy alta,Miguel Hidalgo,12 a 29,Hombre,925,.24227527,224.10461,556.21118,1293.7888
+Pobreza muy alta,Miguel Hidalgo,12 a 29,Mujer,763,.27426577,209.26477,418.63174,1107.3683
+Pobreza muy alta,Miguel Hidalgo,30 a 44,Hombre,1313,.24922885,327.23749,774.49463,1851.5054
+Pobreza muy alta,Miguel Hidalgo,30 a 44,Mujer,1422,.21955572,312.20822,908.22699,1935.7731
+Pobreza muy alta,Miguel Hidalgo, 45 a 59,Hombre,457,.29962873,136.93033,231.66605,682.33392
+Pobreza muy alta,Miguel Hidalgo, 45 a 59,Mujer,477,.31489071,150.20288,229.82462,724.17535
+Pobreza muy alta,Miguel Hidalgo,60 a 106,Hombre,289,.29402936,84.97448,149.16513,428.83487
+Pobreza muy alta,Miguel Hidalgo,60 a 106,Mujer,767,.25571904,196.13651,444.23575,1089.7643
+Pobreza muy alta,Miguel Hidalgo,NE,Hombre,23,1,23,-14.849034,60.849033
+Pobreza muy alta,Venustiano Carranza,0 a 11,Hombre,2260,.18595023,420.24756,1568.4364,2951.5637
+Pobreza muy alta,Venustiano Carranza,0 a 11,Mujer,2503,.17066838,427.18295,1800.0234,3205.9766
+Pobreza muy alta,Venustiano Carranza,12 a 29,Hombre,2022,.23671715,478.64206,1234.3418,2809.6582
+Pobreza muy alta,Venustiano Carranza,12 a 29,Mujer,1565,.17956355,281.01694,1102.5557,2027.4443
+Pobreza muy alta,Venustiano Carranza,30 a 44,Hombre,2311,.18193528,420.45242,1619.0992,3002.9009
+Pobreza muy alta,Venustiano Carranza,30 a 44,Mujer,2642,.18310258,483.75702,1845.9246,3438.0754
+Pobreza muy alta,Venustiano Carranza, 45 a 59,Hombre,1110,.23640983,262.41492,678.16736,1541.8326
+Pobreza muy alta,Venustiano Carranza, 45 a 59,Mujer,947,.25042897,237.15623,556.73328,1337.2667
+Pobreza muy alta,Venustiano Carranza,60 a 106,Hombre,634,.2633363,166.95522,359.25677,908.74323
+Pobreza muy alta,Venustiano Carranza,60 a 106,Mujer,1074,.19779089,212.42741,724.42731,1423.5728
+Pobreza alta,Azcapotzalco,0 a 11,Hombre,4068,.16848047,685.37854,2940.134,5195.8657
+Pobreza alta,Azcapotzalco,0 a 11,Mujer,3232,.17792143,575.04205,2285.7048,4178.2949
+Pobreza alta,Azcapotzalco,12 a 29,Hombre,3641,.16780497,610.97791,2635.5686,4646.4316
+Pobreza alta,Azcapotzalco,12 a 29,Mujer,3943,.16964287,668.90186,2842.2483,5043.7515
+Pobreza alta,Azcapotzalco,30 a 44,Hombre,3011,.16910042,509.16135,2173.1189,3848.8811
+Pobreza alta,Azcapotzalco,30 a 44,Mujer,4173,.16727422,698.03534,3024.3059,5321.6938
+Pobreza alta,Azcapotzalco, 45 a 59,Hombre,2361,.17413087,411.12299,1684.4518,3037.5481
+Pobreza alta,Azcapotzalco, 45 a 59,Mujer,2481,.15117899,375.07507,1863.7726,3098.2273
+Pobreza alta,Azcapotzalco,60 a 106,Hombre,1599,.19422746,310.5697,1087.9233,2110.0767
+Pobreza alta,Azcapotzalco,60 a 106,Mujer,2077,.19212052,399.03433,1420.345,2733.655
+Pobreza alta,Coyoacán,0 a 11,Hombre,4668,.21683742,1012.197,3002.3181,6333.6816
+Pobreza alta,Coyoacán,0 a 11,Mujer,4301,.23477483,1009.7665,2639.3179,5962.6821
+Pobreza alta,Coyoacán,12 a 29,Hombre,5865,.24088357,1412.7821,3540.1113,8189.8887
+Pobreza alta,Coyoacán,12 a 29,Mujer,6083,.27919075,1698.3173,3288.2317,8877.7686
+Pobreza alta,Coyoacán,30 a 44,Hombre,6075,.34424716,2091.3015,2633.5327,9516.4668
+Pobreza alta,Coyoacán,30 a 44,Mujer,5952,.23302254,1386.9501,3669.6208,8234.3789
+Pobreza alta,Coyoacán, 45 a 59,Hombre,4294,.24132027,1036.2292,2588.7705,5999.2295
+Pobreza alta,Coyoacán, 45 a 59,Mujer,4090,.20754492,848.85876,2693.1094,5486.8906
+Pobreza alta,Coyoacán,60 a 106,Hombre,1411,.30675897,432.83691,698.71918,2123.2808
+Pobreza alta,Coyoacán,60 a 106,Mujer,2312,.30938146,715.28992,1134.9116,3489.0884
+Pobreza alta,Cuajimalpa de Morelos,0 a 11,Hombre,2757,.23318876,642.90143,1699.0349,3814.9651
+Pobreza alta,Cuajimalpa de Morelos,0 a 11,Mujer,3024,.28866574,872.92517,1587.5054,4460.4946
+Pobreza alta,Cuajimalpa de Morelos,12 a 29,Hombre,2670,.24807468,662.35938,1580.0146,3759.9854
+Pobreza alta,Cuajimalpa de Morelos,12 a 29,Mujer,2299,.20773643,477.58606,1513.0795,3084.9204
+Pobreza alta,Cuajimalpa de Morelos,30 a 44,Hombre,2694,.26982874,726.91858,1497.7754,3890.2246
+Pobreza alta,Cuajimalpa de Morelos,30 a 44,Mujer,2681,.25642875,687.48547,1549.6669,3812.333
+Pobreza alta,Cuajimalpa de Morelos, 45 a 59,Hombre,1405,.24237002,340.52991,844.62054,1965.3795
+Pobreza alta,Cuajimalpa de Morelos, 45 a 59,Mujer,1815,.29729009,539.58148,927.05914,2702.9409
+Pobreza alta,Cuajimalpa de Morelos,60 a 106,Hombre,650,.25572008,166.21805,376.46988,923.53015
+Pobreza alta,Cuajimalpa de Morelos,60 a 106,Mujer,1203,.27496171,330.77893,658.66681,1747.3331
+Pobreza alta,Gustavo A. Madero,0 a 11,Hombre,13144,.12176757,1600.5128,10510.18,15777.82
+Pobreza alta,Gustavo A. Madero,0 a 11,Mujer,12992,.12110708,1573.4232,10402.759,15581.241
+Pobreza alta,Gustavo A. Madero,12 a 29,Hombre,15609,.12185553,1902.043,12478.979,18739.021
+Pobreza alta,Gustavo A. Madero,12 a 29,Mujer,14134,.1256588,1776.0615,11211.295,17056.705
+Pobreza alta,Gustavo A. Madero,30 a 44,Hombre,14088,.10309588,1452.4148,11697.892,16478.109
+Pobreza alta,Gustavo A. Madero,30 a 44,Mujer,15300,.11542337,1765.9777,12393.89,18206.111
+Pobreza alta,Gustavo A. Madero, 45 a 59,Hombre,7619,.14115092,1075.429,5849.2632,9388.7363
+Pobreza alta,Gustavo A. Madero, 45 a 59,Mujer,8052,.12790553,1029.8954,6357.1938,9746.8066
+Pobreza alta,Gustavo A. Madero,60 a 106,Hombre,4098,.2139881,876.92322,2654.9263,5541.0737
+Pobreza alta,Gustavo A. Madero,60 a 106,Mujer,6057,.15742983,953.55243,4487.8242,7626.1758
+Pobreza alta,Iztacalco,0 a 11,Hombre,4378,.13838637,605.85553,3380.998,5375.002
+Pobreza alta,Iztacalco,0 a 11,Mujer,4618,.13819519,638.18536,3567.7957,5668.2041
+Pobreza alta,Iztacalco,12 a 29,Hombre,4825,.1296261,625.44586,3795.7598,5854.2402
+Pobreza alta,Iztacalco,12 a 29,Mujer,5109,.12649985,646.28772,4045.4624,6172.5376
+Pobreza alta,Iztacalco,30 a 44,Hombre,4988,.12881805,642.54443,3930.6223,6045.3774
+Pobreza alta,Iztacalco,30 a 44,Mujer,4565,.12969868,592.07446,3590.6763,5539.3237
+Pobreza alta,Iztacalco, 45 a 59,Hombre,2686,.12906294,346.66306,2115.5278,3256.4722
+Pobreza alta,Iztacalco, 45 a 59,Mujer,2890,.13961014,403.47333,2226.0403,3553.9597
+Pobreza alta,Iztacalco,60 a 106,Hombre,1413,.17571107,248.27972,1004.4283,1821.5717
+Pobreza alta,Iztacalco,60 a 106,Mujer,2899,.1267686,367.5022,2294.2346,3503.7654
+Pobreza alta,Iztapalapa,0 a 11,Hombre,34678,.13527128,4690.9375,26958.545,42397.453
+Pobreza alta,Iztapalapa,0 a 11,Mujer,33374,.11332358,3782.061,27150.201,39597.797
+Pobreza alta,Iztapalapa,12 a 29,Hombre,39462,.11029334,4352.3955,32299.654,46624.348
+Pobreza alta,Iztapalapa,12 a 29,Mujer,39169,.11415192,4471.2168,31811.121,46526.879
+Pobreza alta,Iztapalapa,30 a 44,Hombre,32313,.12167297,3931.6184,25843.088,38782.91
+Pobreza alta,Iztapalapa,30 a 44,Mujer,36351,.12001608,4362.7046,29171.689,43530.313
+Pobreza alta,Iztapalapa, 45 a 59,Hombre,21532,.1163342,2504.908,17409.898,25654.102
+Pobreza alta,Iztapalapa, 45 a 59,Mujer,24888,.11540028,2872.0823,20161.672,29614.328
+Pobreza alta,Iztapalapa,60 a 106,Hombre,10354,.14072335,1457.0494,7956.2646,12751.735
+Pobreza alta,Iztapalapa,60 a 106,Mujer,14558,.12710339,1850.3711,11513.011,17602.99
+Pobreza alta,La Magdalena Contreras,0 a 11,Hombre,4201,.12597275,529.21155,3330.124,5071.876
+Pobreza alta,La Magdalena Contreras,0 a 11,Mujer,3703,.13760182,509.53958,2864.4966,4541.5034
+Pobreza alta,La Magdalena Contreras,12 a 29,Hombre,4373,.13547403,592.42792,3398.0947,5347.9053
+Pobreza alta,La Magdalena Contreras,12 a 29,Mujer,4604,.12298682,566.23132,3672.2041,5535.7959
+Pobreza alta,La Magdalena Contreras,30 a 44,Hombre,4497,.12374914,556.49988,3581.2183,5412.7817
+Pobreza alta,La Magdalena Contreras,30 a 44,Mujer,3988,.12881266,513.7049,3142.6421,4833.3579
+Pobreza alta,La Magdalena Contreras, 45 a 59,Hombre,2666,.13001145,346.61057,2095.6143,3236.3857
+Pobreza alta,La Magdalena Contreras, 45 a 59,Mujer,2605,.1289579,335.93533,2052.1814,3157.8186
+Pobreza alta,La Magdalena Contreras,60 a 106,Hombre,1316,.14041248,184.78282,1011.9195,1620.0804
+Pobreza alta,La Magdalena Contreras,60 a 106,Mujer,2034,.12495618,254.16086,1615.7502,2452.2498
+Pobreza alta,Milpa Alta,0 a 11,Hombre,4616,.22121443,1021.1258,2935.625,6296.375
+Pobreza alta,Milpa Alta,0 a 11,Mujer,4443,.19854341,882.12836,2991.3606,5894.6396
+Pobreza alta,Milpa Alta,12 a 29,Hombre,4442,.16944714,752.68414,3203.3752,5680.6245
+Pobreza alta,Milpa Alta,12 a 29,Mujer,4366,.16896626,737.70667,3152.0225,5579.9775
+Pobreza alta,Milpa Alta,30 a 44,Hombre,3462,.17451341,604.16547,2467.7793,4456.2207
+Pobreza alta,Milpa Alta,30 a 44,Mujer,4400,.16710109,735.24481,3190.0737,5609.9263
+Pobreza alta,Milpa Alta, 45 a 59,Hombre,2344,.18791422,440.47092,1619.1566,3068.8435
+Pobreza alta,Milpa Alta, 45 a 59,Mujer,2504,.16869685,422.4169,1808.8665,3199.1335
+Pobreza alta,Milpa Alta,60 a 106,Hombre,1284,.26089573,334.99014,732.73682,1835.2632
+Pobreza alta,Milpa Alta,60 a 106,Mujer,1880,.22011653,413.81906,1199.0151,2560.9849
+Pobreza alta,Álvaro Obregón,0 a 11,Hombre,11268,.13671555,1540.5107,8732.9199,13803.08
+Pobreza alta,Álvaro Obregón,0 a 11,Mujer,9743,.14444433,1407.3212,7427.0981,12058.902
+Pobreza alta,Álvaro Obregón,12 a 29,Hombre,11244,.13624625,1531.9529,8723.0029,13764.997
+Pobreza alta,Álvaro Obregón,12 a 29,Mujer,10502,.14404729,1512.7847,8012.5459,12991.454
+Pobreza alta,Álvaro Obregón,30 a 44,Hombre,10551,.12909678,1362.1001,8309.5146,12792.485
+Pobreza alta,Álvaro Obregón,30 a 44,Mujer,12437,.1273993,1584.465,9829.5879,15044.412
+Pobreza alta,Álvaro Obregón, 45 a 59,Hombre,6395,.13880625,887.66595,4934.248,7855.752
+Pobreza alta,Álvaro Obregón, 45 a 59,Mujer,6610,.15171863,1002.8602,4959.6831,8260.3164
+Pobreza alta,Álvaro Obregón,60 a 106,Hombre,3883,.13980669,542.86938,2989.6487,4776.3516
+Pobreza alta,Álvaro Obregón,60 a 106,Mujer,5701,.13726996,782.57599,4413.1851,6988.8149
+Pobreza alta,Tláhuac,0 a 11,Hombre,7226,.16941299,1224.1782,5211.48,9240.5205
+Pobreza alta,Tláhuac,0 a 11,Mujer,7733,.18402737,1423.0837,5391.1592,10074.841
+Pobreza alta,Tláhuac,12 a 29,Hombre,7935,.18891308,1499.0253,5468.1885,10401.812
+Pobreza alta,Tláhuac,12 a 29,Mujer,8048,.19369623,1558.8673,5482.7119,10613.288
+Pobreza alta,Tláhuac,30 a 44,Hombre,6557,.1843483,1208.7719,4567.8325,8546.167
+Pobreza alta,Tláhuac,30 a 44,Mujer,8081,.14759205,1192.6914,6118.2949,10043.705
+Pobreza alta,Tláhuac, 45 a 59,Hombre,4132,.18703206,772.81647,2860.2454,5403.7549
+Pobreza alta,Tláhuac, 45 a 59,Mujer,4359,.22036028,960.55048,2778.3083,5939.6914
+Pobreza alta,Tláhuac,60 a 106,Hombre,2228,.18734607,417.40704,1541.1107,2914.8894
+Pobreza alta,Tláhuac,60 a 106,Mujer,3172,.15844211,502.5784,2344.9519,3999.0481
+Pobreza alta,Tlalpan,0 a 11,Hombre,11085,.13845406,1534.7633,8559.3779,13610.622
+Pobreza alta,Tlalpan,0 a 11,Mujer,10832,.11787806,1276.8551,8730.7939,12933.206
+Pobreza alta,Tlalpan,12 a 29,Hombre,12517,.13376093,1674.2855,9761.7783,15272.222
+Pobreza alta,Tlalpan,12 a 29,Mujer,12625,.14751323,1862.3545,9560.29,15689.71
+Pobreza alta,Tlalpan,30 a 44,Hombre,11378,.12614109,1435.2333,9016.165,13739.835
+Pobreza alta,Tlalpan,30 a 44,Mujer,12444,.10871511,1352.8508,10217.735,14670.265
+Pobreza alta,Tlalpan, 45 a 59,Hombre,6811,.13714664,934.10577,5273.8262,8348.1738
+Pobreza alta,Tlalpan, 45 a 59,Mujer,6418,.13106187,841.15509,5033.7866,7802.2134
+Pobreza alta,Tlalpan,60 a 106,Hombre,3148,.16075104,506.04431,2315.2483,3980.7517
+Pobreza alta,Tlalpan,60 a 106,Mujer,4573,.12476389,570.54529,3634.105,5511.895
+Pobreza alta,Xochimilco,0 a 11,Hombre,8951,.15805422,1414.7433,6622.8838,11279.116
+Pobreza alta,Xochimilco,0 a 11,Mujer,9284,.15624131,1450.5443,6896.9692,11671.03
+Pobreza alta,Xochimilco,12 a 29,Hombre,9689,.1591827,1542.3212,7150.9404,12227.06
+Pobreza alta,Xochimilco,12 a 29,Mujer,10868,.14734784,1601.3762,8232.7588,13503.241
+Pobreza alta,Xochimilco,30 a 44,Hombre,9656,.15191309,1466.8729,7242.0991,12069.901
+Pobreza alta,Xochimilco,30 a 44,Mujer,10224,.17474271,1786.5695,7284.0029,13163.997
+Pobreza alta,Xochimilco, 45 a 59,Hombre,5196,.16394281,851.84686,3794.1921,6597.8081
+Pobreza alta,Xochimilco, 45 a 59,Mujer,5511,.19265442,1061.7185,3763.8252,7258.1748
+Pobreza alta,Xochimilco,60 a 106,Hombre,2943,.19674146,579.01013,1990.175,3895.825
+Pobreza alta,Xochimilco,60 a 106,Mujer,3937,.19339976,761.41486,2684.0078,5189.9922
+Pobreza alta,Benito Juárez,0 a 11,Hombre,1371,.28706828,393.57059,723.33624,2018.6638
+Pobreza alta,Benito Juárez,0 a 11,Mujer,1191,.24505693,291.86279,710.70758,1671.2924
+Pobreza alta,Benito Juárez,12 a 29,Hombre,1889,.22489472,424.82611,1189.9019,2588.0981
+Pobreza alta,Benito Juárez,12 a 29,Mujer,1108,.18544923,205.47774,769.86371,1446.1362
+Pobreza alta,Benito Juárez,30 a 44,Hombre,1737,.20913862,363.27377,1139.193,2334.8071
+Pobreza alta,Benito Juárez,30 a 44,Mujer,2178,.23303498,507.55017,1342.7703,3013.2297
+Pobreza alta,Benito Juárez, 45 a 59,Hombre,1359,.20315164,276.0831,904.67487,1813.3252
+Pobreza alta,Benito Juárez, 45 a 59,Mujer,953,.24631894,234.74194,566.70624,1339.2937
+Pobreza alta,Benito Juárez,60 a 106,Hombre,661,.25963965,171.62181,378.57742,943.42261
+Pobreza alta,Benito Juárez,60 a 106,Mujer,999,.24221386,241.97165,600.80902,1397.191
+Pobreza alta,Cuauhtémoc,0 a 11,Hombre,5073,.24527678,1244.2891,3025.3853,7120.6147
+Pobreza alta,Cuauhtémoc,0 a 11,Mujer,5195,.20101269,1044.261,3476.5535,6913.4463
+Pobreza alta,Cuauhtémoc,12 a 29,Hombre,5926,.21294297,1261.9001,3849.4043,8002.5957
+Pobreza alta,Cuauhtémoc,12 a 29,Mujer,5532,.20717886,1146.1135,3645.9441,7418.0562
+Pobreza alta,Cuauhtémoc,30 a 44,Hombre,4513,.18868053,851.5152,3111.7378,5914.2622
+Pobreza alta,Cuauhtémoc,30 a 44,Mujer,5516,.18837665,1039.0856,3806.0701,7225.9297
+Pobreza alta,Cuauhtémoc, 45 a 59,Hombre,3142,.2064269,648.59332,2074.6682,4209.3315
+Pobreza alta,Cuauhtémoc, 45 a 59,Mujer,3267,.18365237,599.99231,2279.6465,4254.3535
+Pobreza alta,Cuauhtémoc,60 a 106,Hombre,1151,.25389633,292.23468,670.09564,1631.9044
+Pobreza alta,Cuauhtémoc,60 a 106,Mujer,2513,.21849172,549.0697,1609.4453,3416.5547
+Pobreza alta,Miguel Hidalgo,0 a 11,Hombre,2135,.24814805,529.79608,1263.1621,3006.8379
+Pobreza alta,Miguel Hidalgo,0 a 11,Mujer,2157,.27997479,603.90564,1163.2068,3150.7932
+Pobreza alta,Miguel Hidalgo,12 a 29,Hombre,2735,.25003797,683.85382,1609.6432,3860.3567
+Pobreza alta,Miguel Hidalgo,12 a 29,Mujer,2410,.29342559,707.1557,1246.2974,3573.7026
+Pobreza alta,Miguel Hidalgo,30 a 44,Hombre,2355,.26775861,630.57153,1317.3251,3392.675
+Pobreza alta,Miguel Hidalgo,30 a 44,Mujer,2902,.26774707,777.00201,1623.3575,4180.6426
+Pobreza alta,Miguel Hidalgo, 45 a 59,Hombre,1933,.20539361,397.02585,1279.6501,2586.3499
+Pobreza alta,Miguel Hidalgo, 45 a 59,Mujer,1635,.20229888,330.75867,1090.7002,2179.2998
+Pobreza alta,Miguel Hidalgo,60 a 106,Hombre,1121,.20538728,230.23914,742.11615,1499.8839
+Pobreza alta,Miguel Hidalgo,60 a 106,Mujer,1440,.24589501,354.08881,857.30786,2022.6921
+Pobreza alta,Venustiano Carranza,0 a 11,Hombre,5661,.15581019,882.0415,4209.5034,7112.4966
+Pobreza alta,Venustiano Carranza,0 a 11,Mujer,5158,.16361077,843.9043,3769.2625,6546.7378
+Pobreza alta,Venustiano Carranza,12 a 29,Hombre,6002,.14592397,875.83569,4560.7158,7443.2842
+Pobreza alta,Venustiano Carranza,12 a 29,Mujer,6427,.14220457,913.94873,4922.9966,7931.0034
+Pobreza alta,Venustiano Carranza,30 a 44,Hombre,6429,.15260142,981.07452,4814.5337,8043.4663
+Pobreza alta,Venustiano Carranza,30 a 44,Mujer,6678,.13302913,888.36853,5216.0918,8139.9082
+Pobreza alta,Venustiano Carranza, 45 a 59,Hombre,3225,.1413966,456.00403,2474.5952,3975.4048
+Pobreza alta,Venustiano Carranza, 45 a 59,Mujer,3655,.15167452,554.37036,2742.7224,4567.2773
+Pobreza alta,Venustiano Carranza,60 a 106,Hombre,1958,.17383271,340.36447,1397.8928,2518.1072
+Pobreza alta,Venustiano Carranza,60 a 106,Mujer,2807,.1407236,395.01114,2156.9656,3457.0344
+Pobreza moderada,Azcapotzalco,0 a 11,Hombre,14095,.12034632,1696.2815,11303.582,16886.418
+Pobreza moderada,Azcapotzalco,0 a 11,Mujer,13327,.11461659,1527.4952,10813.338,15840.662
+Pobreza moderada,Azcapotzalco,12 a 29,Hombre,21660,.12126526,2626.6055,17337.631,25982.369
+Pobreza moderada,Azcapotzalco,12 a 29,Mujer,20967,.11816745,2477.6169,16889.809,25044.191
+Pobreza moderada,Azcapotzalco,30 a 44,Hombre,18561,.10660595,1978.713,15304.81,21817.189
+Pobreza moderada,Azcapotzalco,30 a 44,Mujer,20707,.1066221,2207.824,17073.783,24340.217
+Pobreza moderada,Azcapotzalco, 45 a 59,Hombre,16251,.14260963,2317.5491,12437.218,20064.783
+Pobreza moderada,Azcapotzalco, 45 a 59,Mujer,18323,.12397528,2271.5989,14584.834,22061.166
+Pobreza moderada,Azcapotzalco,60 a 106,Hombre,11626,.1316012,1529.9956,9108.2236,14143.776
+Pobreza moderada,Azcapotzalco,60 a 106,Mujer,15705,.12258164,1925.1445,12536.963,18873.037
+Pobreza moderada,Azcapotzalco,NE,Hombre,25,1,25,-16.140255,66.140251
+Pobreza moderada,Coyoacán,0 a 11,Hombre,16963,.16162348,2741.6191,12451.363,21474.637
+Pobreza moderada,Coyoacán,0 a 11,Mujer,17469,.16771151,2929.7524,12647.77,22290.23
+Pobreza moderada,Coyoacán,12 a 29,Hombre,29160,.16513371,4815.2993,21235.895,37084.105
+Pobreza moderada,Coyoacán,12 a 29,Mujer,27801,.15454179,4296.4165,20730.773,34871.227
+Pobreza moderada,Coyoacán,30 a 44,Hombre,24992,.14906244,3725.3684,18861.496,31122.504
+Pobreza moderada,Coyoacán,30 a 44,Mujer,25951,.14186208,3681.4629,19892.748,32009.252
+Pobreza moderada,Coyoacán, 45 a 59,Hombre,19535,.16297507,3183.718,14295.841,24774.158
+Pobreza moderada,Coyoacán, 45 a 59,Mujer,22032,.16292466,3589.5559,16124.99,27939.01
+Pobreza moderada,Coyoacán,60 a 106,Hombre,13224,.16662613,2203.4639,9597.958,16850.043
+Pobreza moderada,Coyoacán,60 a 106,Mujer,19643,.14259277,2800.95,15033.729,24252.271
+Pobreza moderada,Cuajimalpa de Morelos,0 a 11,Hombre,7468,.2624124,1959.6959,4243.1045,10692.896
+Pobreza moderada,Cuajimalpa de Morelos,0 a 11,Mujer,7382,.28867769,2131.0188,3875.1736,10888.826
+Pobreza moderada,Cuajimalpa de Morelos,12 a 29,Hombre,10624,.26684609,2834.9729,5958.7397,15289.261
+Pobreza moderada,Cuajimalpa de Morelos,12 a 29,Mujer,11040,.26771435,2955.5667,6176.2896,15903.711
+Pobreza moderada,Cuajimalpa de Morelos,30 a 44,Hombre,9877,.3243528,3203.6326,4605.0698,15148.931
+Pobreza moderada,Cuajimalpa de Morelos,30 a 44,Mujer,11097,.33757564,3746.0769,4932.4175,17261.582
+Pobreza moderada,Cuajimalpa de Morelos, 45 a 59,Hombre,6605,.26624835,1758.5702,3711.0789,9498.9209
+Pobreza moderada,Cuajimalpa de Morelos, 45 a 59,Mujer,7569,.27655935,2093.2776,4124.2808,11013.719
+Pobreza moderada,Cuajimalpa de Morelos,60 a 106,Hombre,4297,.36617774,1573.4657,1707.6887,6886.311
+Pobreza moderada,Cuajimalpa de Morelos,60 a 106,Mujer,6735,.4011319,2701.6233,2289.1812,11180.819
+Pobreza moderada,Cuajimalpa de Morelos,NE,Hombre,15,1,15,-9.6841526,39.684155
+Pobreza moderada,Cuajimalpa de Morelos,NE,Mujer,5,1,5,-3.2280509,13.228051
+Pobreza moderada,Gustavo A. Madero,0 a 11,Hombre,43858,.087751105,3848.5879,37524.723,50191.277
+Pobreza moderada,Gustavo A. Madero,0 a 11,Mujer,41338,.091455258,3780.5774,35116.645,47559.355
+Pobreza moderada,Gustavo A. Madero,12 a 29,Hombre,63528,.094764017,6020.1685,53621.148,73434.852
+Pobreza moderada,Gustavo A. Madero,12 a 29,Mujer,64978,.083486065,5424.7573,56050.965,73905.039
+Pobreza moderada,Gustavo A. Madero,30 a 44,Hombre,56324,.07984256,4497.0522,48923.605,63724.395
+Pobreza moderada,Gustavo A. Madero,30 a 44,Mujer,57293,.085106157,4875.9873,49269.027,65316.973
+Pobreza moderada,Gustavo A. Madero, 45 a 59,Hombre,44677,.085982494,3841.4399,38355.488,50998.512
+Pobreza moderada,Gustavo A. Madero, 45 a 59,Mujer,53302,.081267104,4331.6992,46173.711,60430.289
+Pobreza moderada,Gustavo A. Madero,60 a 106,Hombre,35869,.089894004,3224.408,30562.881,41175.117
+Pobreza moderada,Gustavo A. Madero,60 a 106,Mujer,43098,.084595867,3645.9126,37098.25,49097.75
+Pobreza moderada,Iztacalco,0 a 11,Hombre,13179,.10521449,1386.6218,10897.161,15460.839
+Pobreza moderada,Iztacalco,0 a 11,Mujer,12334,.10777493,1329.2959,10146.497,14521.503
+Pobreza moderada,Iztacalco,12 a 29,Hombre,20951,.096171625,2014.8916,17635.273,24266.727
+Pobreza moderada,Iztacalco,12 a 29,Mujer,20937,.10435542,2184.8894,17341.523,24532.477
+Pobreza moderada,Iztacalco,30 a 44,Hombre,18118,.1024202,1855.6492,15064.325,21171.676
+Pobreza moderada,Iztacalco,30 a 44,Mujer,19169,.10919365,2093.1331,15724.519,22613.48
+Pobreza moderada,Iztacalco, 45 a 59,Hombre,14710,.095546879,1405.4946,12397.104,17022.896
+Pobreza moderada,Iztacalco, 45 a 59,Mujer,17069,.0883293,1507.6929,14587.925,19550.074
+Pobreza moderada,Iztacalco,60 a 106,Hombre,10953,.092371807,1011.7484,9288.0566,12617.943
+Pobreza moderada,Iztacalco,60 a 106,Mujer,14936,.094850883,1416.6927,12604.676,17267.324
+Pobreza moderada,Iztapalapa,0 a 11,Hombre,64752,.081840403,5299.3301,56031.367,73472.633
+Pobreza moderada,Iztapalapa,0 a 11,Mujer,65553,.083978258,5505.0269,56493.871,74612.125
+Pobreza moderada,Iztapalapa,12 a 29,Hombre,119568,.082931682,9915.9756,103250.17,135885.83
+Pobreza moderada,Iztapalapa,12 a 29,Mujer,117277,.076899149,9018.502,102436.06,132117.94
+Pobreza moderada,Iztapalapa,30 a 44,Hombre,86801,.068940654,5984.1177,76953.477,96648.523
+Pobreza moderada,Iztapalapa,30 a 44,Mujer,94464,.074611194,7048.0718,82865.625,106062.38
+Pobreza moderada,Iztapalapa, 45 a 59,Hombre,75101,.079605952,5978.4868,65262.742,84939.258
+Pobreza moderada,Iztapalapa, 45 a 59,Mujer,84538,.080411971,6797.8672,73351.359,95724.641
+Pobreza moderada,Iztapalapa,60 a 106,Hombre,48841,.081475899,3979.3643,42292.516,55389.484
+Pobreza moderada,Iztapalapa,60 a 106,Mujer,61685,.075080641,4631.3496,54063.605,69306.398
+Pobreza moderada,La Magdalena Contreras,0 a 11,Hombre,8747,.099638797,871.54059,7312.7837,10181.216
+Pobreza moderada,La Magdalena Contreras,0 a 11,Mujer,8332,.10498837,874.76318,6892.481,9771.5195
+Pobreza moderada,La Magdalena Contreras,12 a 29,Hombre,14399,.096023023,1382.6355,12123.721,16674.279
+Pobreza moderada,La Magdalena Contreras,12 a 29,Mujer,14673,.096717574,1419.137,12337.654,17008.346
+Pobreza moderada,La Magdalena Contreras,30 a 44,Hombre,10591,.092884518,983.73993,8972.1475,12209.853
+Pobreza moderada,La Magdalena Contreras,30 a 44,Mujer,11975,.092146315,1103.4521,10159.147,13790.853
+Pobreza moderada,La Magdalena Contreras, 45 a 59,Hombre,9721,.097638614,949.14496,8159.0771,11282.923
+Pobreza moderada,La Magdalena Contreras, 45 a 59,Mujer,11314,.09019877,1020.5089,9634.6406,12993.359
+Pobreza moderada,La Magdalena Contreras,60 a 106,Hombre,6552,.10574493,692.84076,5411.854,7692.146
+Pobreza moderada,La Magdalena Contreras,60 a 106,Mujer,8245,.094948433,782.84979,6956.7344,9533.2656
+Pobreza moderada,Milpa Alta,0 a 11,Hombre,5743,.17871387,1026.3538,4054.0217,7431.978
+Pobreza moderada,Milpa Alta,0 a 11,Mujer,5687,.17470948,993.57281,4051.9663,7322.0337
+Pobreza moderada,Milpa Alta,12 a 29,Hombre,11019,.15049641,1658.3199,8290.0518,13747.948
+Pobreza moderada,Milpa Alta,12 a 29,Mujer,11054,.14754452,1630.957,8370.0801,13737.92
+Pobreza moderada,Milpa Alta,30 a 44,Hombre,6435,.18193789,1170.7703,4508.3687,8361.6318
+Pobreza moderada,Milpa Alta,30 a 44,Mujer,6931,.14925057,1034.4557,5228.6895,8633.3105
+Pobreza moderada,Milpa Alta, 45 a 59,Hombre,6419,.15902962,1020.8112,4739.1426,8098.8574
+Pobreza moderada,Milpa Alta, 45 a 59,Mujer,6646,.15874822,1055.0408,4909.814,8382.1855
+Pobreza moderada,Milpa Alta,60 a 106,Hombre,3520,.17032835,599.55579,2533.3647,4506.6353
+Pobreza moderada,Milpa Alta,60 a 106,Mujer,3365,.16836759,566.55695,2432.668,4297.332
+Pobreza moderada,Álvaro Obregón,0 a 11,Hombre,24565,.10395928,2553.7598,20362.508,28767.492
+Pobreza moderada,Álvaro Obregón,0 a 11,Mujer,25870,.11289896,2920.6963,21063.672,30676.328
+Pobreza moderada,Álvaro Obregón,12 a 29,Hombre,42161,.101871,4294.9829,35093.133,49228.867
+Pobreza moderada,Álvaro Obregón,12 a 29,Mujer,42044,.10790682,4536.8345,34578.141,49509.859
+Pobreza moderada,Álvaro Obregón,30 a 44,Hombre,32852,.10001057,3285.5474,27445.27,38258.73
+Pobreza moderada,Álvaro Obregón,30 a 44,Mujer,36096,.098258696,3546.7461,30259.439,41932.563
+Pobreza moderada,Álvaro Obregón, 45 a 59,Hombre,25152,.11348381,2854.3447,20454.861,29849.139
+Pobreza moderada,Álvaro Obregón, 45 a 59,Mujer,28302,.10891695,3082.5674,23229.295,33374.703
+Pobreza moderada,Álvaro Obregón,60 a 106,Hombre,18220,.11138739,2029.4783,14880.27,21559.73
+Pobreza moderada,Álvaro Obregón,60 a 106,Mujer,24990,.10750945,2686.6611,20568.803,29411.197
+Pobreza moderada,Tláhuac,0 a 11,Hombre,16390,.13180327,2160.2559,12835.062,19944.939
+Pobreza moderada,Tláhuac,0 a 11,Mujer,15078,.14568847,2196.6909,11463.104,18692.896
+Pobreza moderada,Tláhuac,12 a 29,Hombre,26127,.15765162,4118.9639,19348.791,32905.207
+Pobreza moderada,Tláhuac,12 a 29,Mujer,26230,.15267812,4004.7471,19639.748,32820.254
+Pobreza moderada,Tláhuac,30 a 44,Hombre,19194,.13183312,2530.405,15029.939,23358.061
+Pobreza moderada,Tláhuac,30 a 44,Mujer,21736,.13689658,2975.5842,16839.348,26632.652
+Pobreza moderada,Tláhuac, 45 a 59,Hombre,14583,.1609544,2347.198,10720.427,18445.572
+Pobreza moderada,Tláhuac, 45 a 59,Mujer,16442,.16269639,2675.054,12039.903,20844.096
+Pobreza moderada,Tláhuac,60 a 106,Hombre,9093,.13442497,1222.3262,7081.5273,11104.473
+Pobreza moderada,Tláhuac,60 a 106,Mujer,11013,.15092778,1662.1677,8277.7197,13748.28
+Pobreza moderada,Tlalpan,0 a 11,Hombre,24941,.1064447,2654.8374,20572.172,29309.828
+Pobreza moderada,Tlalpan,0 a 11,Mujer,22645,.10745414,2433.2991,18640.738,26649.262
+Pobreza moderada,Tlalpan,12 a 29,Hombre,39953,.10410415,4159.2729,33108.457,46797.543
+Pobreza moderada,Tlalpan,12 a 29,Mujer,41389,.11621835,4810.1616,33473.348,49304.652
+Pobreza moderada,Tlalpan,30 a 44,Hombre,32455,.10311695,3346.6606,26947.701,37962.301
+Pobreza moderada,Tlalpan,30 a 44,Mujer,35044,.099456809,3485.3645,29308.449,40779.551
+Pobreza moderada,Tlalpan, 45 a 59,Hombre,23363,.098905981,2310.7405,19560.422,27165.578
+Pobreza moderada,Tlalpan, 45 a 59,Mujer,27582,.095016919,2620.7566,23269.256,31894.744
+Pobreza moderada,Tlalpan,60 a 106,Hombre,15531,.099584661,1546.6493,12985.818,18076.182
+Pobreza moderada,Tlalpan,60 a 106,Mujer,19466,.10050022,1956.3373,16246.632,22685.369
+Pobreza moderada,Xochimilco,0 a 11,Hombre,14597,.15835491,2311.5066,10793.161,18400.838
+Pobreza moderada,Xochimilco,0 a 11,Mujer,15407,.16903678,2604.3496,11121.256,19692.744
+Pobreza moderada,Xochimilco,12 a 29,Hombre,25920,.14967559,3879.5916,19535.705,32304.295
+Pobreza moderada,Xochimilco,12 a 29,Mujer,27433,.14224659,3902.2507,21011.416,33854.582
+Pobreza moderada,Xochimilco,30 a 44,Hombre,21149,.14742196,3117.8269,16018.272,26279.729
+Pobreza moderada,Xochimilco,30 a 44,Mujer,22634,.1547585,3502.804,16869.75,28398.25
+Pobreza moderada,Xochimilco, 45 a 59,Hombre,16196,.1612515,2611.6294,11898.276,20493.725
+Pobreza moderada,Xochimilco, 45 a 59,Mujer,17015,.13022192,2215.7258,13368.779,20661.221
+Pobreza moderada,Xochimilco,60 a 106,Hombre,10586,.12618697,1335.8152,8387.7686,12784.231
+Pobreza moderada,Xochimilco,60 a 106,Mujer,13771,.13324516,1834.9189,10751.438,16790.561
+Pobreza moderada,Benito Juárez,0 a 11,Hombre,7949,.1183326,940.62585,6401.0967,9496.9033
+Pobreza moderada,Benito Juárez,0 a 11,Mujer,6738,.10765364,725.37024,5544.3232,7931.6768
+Pobreza moderada,Benito Juárez,12 a 29,Hombre,12724,.09976773,1269.4446,10634.989,14813.011
+Pobreza moderada,Benito Juárez,12 a 29,Mujer,13167,.11296269,1487.3798,10719.353,15614.647
+Pobreza moderada,Benito Juárez,30 a 44,Hombre,15759,.11084319,1746.7778,12884.484,18633.516
+Pobreza moderada,Benito Juárez,30 a 44,Mujer,16676,.10613579,1769.9203,13763.401,19588.6
+Pobreza moderada,Benito Juárez, 45 a 59,Hombre,8899,.11076777,985.72235,7276.8853,10521.114
+Pobreza moderada,Benito Juárez, 45 a 59,Mujer,9676,.11051359,1069.3295,7916.3003,11435.699
+Pobreza moderada,Benito Juárez,60 a 106,Hombre,6076,.11946153,725.84827,4881.5366,7270.4634
+Pobreza moderada,Benito Juárez,60 a 106,Mujer,8828,.10951528,966.8009,7237.0225,10418.978
+Pobreza moderada,Benito Juárez,NE,Mujer,30,1,30,-19.368305,79.368309
+Pobreza moderada,Cuauhtémoc,0 a 11,Hombre,14792,.17306125,2559.9219,10579.366,19004.633
+Pobreza moderada,Cuauhtémoc,0 a 11,Mujer,13278,.17376502,2307.252,9481.1631,17074.838
+Pobreza moderada,Cuauhtémoc,12 a 29,Hombre,23727,.16582879,3934.6199,17252.15,30201.85
+Pobreza moderada,Cuauhtémoc,12 a 29,Mujer,24011,.1561951,3750.4006,17839.303,30182.697
+Pobreza moderada,Cuauhtémoc,30 a 44,Hombre,24599,.15082301,3710.0952,18493.629,30704.371
+Pobreza moderada,Cuauhtémoc,30 a 44,Mujer,24168,.16076162,3885.2871,17774.332,30561.668
+Pobreza moderada,Cuauhtémoc, 45 a 59,Hombre,14669,.15422402,2262.312,10946.116,18391.885
+Pobreza moderada,Cuauhtémoc, 45 a 59,Mujer,18079,.17251246,3118.8528,12946.584,23211.416
+Pobreza moderada,Cuauhtémoc,60 a 106,Hombre,11092,.15187864,1684.6378,8319.7432,13864.257
+Pobreza moderada,Cuauhtémoc,60 a 106,Mujer,17311,.15891412,2750.9624,12783.988,21838.012
+Pobreza moderada,Miguel Hidalgo,0 a 11,Hombre,12680,.1792483,2272.8684,8939.7441,16420.256
+Pobreza moderada,Miguel Hidalgo,0 a 11,Mujer,10970,.178656,1959.8563,7744.8403,14195.159
+Pobreza moderada,Miguel Hidalgo,12 a 29,Hombre,16379,.19399276,3177.4075,11150.226,21607.773
+Pobreza moderada,Miguel Hidalgo,12 a 29,Mujer,17076,.17939527,3063.3535,12034.914,22117.086
+Pobreza moderada,Miguel Hidalgo,30 a 44,Hombre,17747,.17878678,3172.9292,12525.596,22968.404
+Pobreza moderada,Miguel Hidalgo,30 a 44,Mujer,19948,.17217882,3434.623,14295.949,25600.051
+Pobreza moderada,Miguel Hidalgo, 45 a 59,Hombre,11399,.17089374,1948.0178,8193.3223,14604.678
+Pobreza moderada,Miguel Hidalgo, 45 a 59,Mujer,13325,.18244928,2431.1367,9324.2969,17325.703
+Pobreza moderada,Miguel Hidalgo,60 a 106,Hombre,8696,.1577687,1371.9565,6438.2944,10953.706
+Pobreza moderada,Miguel Hidalgo,60 a 106,Mujer,13253,.17031512,2257.1863,9538.5508,16967.449
+Pobreza moderada,Venustiano Carranza,0 a 11,Hombre,16553,.11617365,1923.0223,13388.455,19717.545
+Pobreza moderada,Venustiano Carranza,0 a 11,Mujer,16899,.11578845,1956.7091,13679.02,20118.98
+Pobreza moderada,Venustiano Carranza,12 a 29,Hombre,24018,.10318977,2478.4121,19939.5,28096.5
+Pobreza moderada,Venustiano Carranza,12 a 29,Mujer,24472,.10317132,2524.8086,20317.148,28626.852
+Pobreza moderada,Venustiano Carranza,30 a 44,Hombre,21759,.091200471,1984.431,18493.4,25024.6
+Pobreza moderada,Venustiano Carranza,30 a 44,Mujer,24462,.087181777,2132.6406,20952.504,27971.496
+Pobreza moderada,Venustiano Carranza, 45 a 59,Hombre,16338,.090408899,1477.1006,13907.269,18768.732
+Pobreza moderada,Venustiano Carranza, 45 a 59,Mujer,19423,.094591446,1837.2496,16399.604,22446.396
+Pobreza moderada,Venustiano Carranza,60 a 106,Hombre,12051,.086580001,1043.3756,10334.011,13767.989
+Pobreza moderada,Venustiano Carranza,60 a 106,Mujer,17257,.092152275,1590.2719,14640.032,19873.967
+Satisfaccion mínima,Azcapotzalco,0 a 11,Hombre,5283,.12923132,682.72906,4159.4941,6406.5059
+Satisfaccion mínima,Azcapotzalco,0 a 11,Mujer,4837,.11195992,541.55011,3945.8196,5728.1802
+Satisfaccion mínima,Azcapotzalco,12 a 29,Hombre,9571,.090289906,864.16473,8148.9219,10993.078
+Satisfaccion mínima,Azcapotzalco,12 a 29,Mujer,9706,.10571258,1026.0463,8017.5278,11394.473
+Satisfaccion mínima,Azcapotzalco,30 a 44,Hombre,8900,.10797682,960.99365,7318.5791,10481.421
+Satisfaccion mínima,Azcapotzalco,30 a 44,Mujer,9612,.10098261,970.64484,8014.6968,11209.303
+Satisfaccion mínima,Azcapotzalco, 45 a 59,Hombre,7329,.11480514,841.40686,5944.3726,8713.6279
+Satisfaccion mínima,Azcapotzalco, 45 a 59,Mujer,9373,.10192367,955.33063,7800.8984,10945.102
+Satisfaccion mínima,Azcapotzalco,60 a 106,Hombre,7091,.12552629,890.10699,5626.231,8555.7695
+Satisfaccion mínima,Azcapotzalco,60 a 106,Mujer,9220,.10692863,985.88202,7597.6226,10842.378
+Satisfaccion mínima,Coyoacán,0 a 11,Hombre,6630,.10978961,727.90509,5432.1519,7827.8481
+Satisfaccion mínima,Coyoacán,0 a 11,Mujer,5957,.11440693,681.52209,4835.4805,7078.5195
+Satisfaccion mínima,Coyoacán,12 a 29,Hombre,13090,.10896778,1426.3882,10742.721,15437.279
+Satisfaccion mínima,Coyoacán,12 a 29,Mujer,11523,.1241232,1430.2717,9169.3301,13876.67
+Satisfaccion mínima,Coyoacán,30 a 44,Hombre,10112,.088904016,898.99744,8632.6006,11591.399
+Satisfaccion mínima,Coyoacán,30 a 44,Mujer,10969,.11660506,1279.0409,8864.1973,13073.803
+Satisfaccion mínima,Coyoacán, 45 a 59,Hombre,9262,.11821352,1094.8937,7460.2319,11063.769
+Satisfaccion mínima,Coyoacán, 45 a 59,Mujer,11065,.10137944,1121.7635,9219.0146,12910.985
+Satisfaccion mínima,Coyoacán,60 a 106,Hombre,8612,.10112906,870.9234,7178.7993,10045.2
+Satisfaccion mínima,Coyoacán,60 a 106,Mujer,11787,.09427014,1111.1621,9958.46,13615.54
+Satisfaccion mínima,Cuajimalpa de Morelos,0 a 11,Hombre,2326,.39785305,925.40619,803.14215,3848.8579
+Satisfaccion mínima,Cuajimalpa de Morelos,0 a 11,Mujer,1332,.37672755,501.80109,506.23102,2157.769
+Satisfaccion mínima,Cuajimalpa de Morelos,12 a 29,Hombre,4993,.3717615,1856.2052,1938.4098,8047.5903
+Satisfaccion mínima,Cuajimalpa de Morelos,12 a 29,Mujer,5475,.33336127,1825.153,2471.5098,8478.4902
+Satisfaccion mínima,Cuajimalpa de Morelos,30 a 44,Hombre,3612,.41394496,1495.1692,1151.5343,6072.4658
+Satisfaccion mínima,Cuajimalpa de Morelos,30 a 44,Mujer,4469,.38366532,1714.6003,1647.4362,7290.564
+Satisfaccion mínima,Cuajimalpa de Morelos, 45 a 59,Hombre,2695,.39395067,1061.697,947.86047,4442.1396
+Satisfaccion mínima,Cuajimalpa de Morelos, 45 a 59,Mujer,3528,.41879669,1477.5146,1096.5868,5959.4131
+Satisfaccion mínima,Cuajimalpa de Morelos,60 a 106,Hombre,1983,.51489925,1021.0452,302.7576,3663.2424
+Satisfaccion mínima,Cuajimalpa de Morelos,60 a 106,Mujer,2555,.30020425,767.02185,1292.781,3817.219
+Satisfaccion mínima,Gustavo A. Madero,0 a 11,Hombre,10833,.1030188,1116.0026,8996.4951,12669.505
+Satisfaccion mínima,Gustavo A. Madero,0 a 11,Mujer,11423,.10162576,1160.8711,9512.6592,13333.341
+Satisfaccion mínima,Gustavo A. Madero,12 a 29,Hombre,24543,.08741165,2145.3442,21012.6,28073.4
+Satisfaccion mínima,Gustavo A. Madero,12 a 29,Mujer,25751,.074129961,1908.9205,22609.66,28892.34
+Satisfaccion mínima,Gustavo A. Madero,30 a 44,Hombre,18229,.093825467,1710.3445,15414.439,21043.561
+Satisfaccion mínima,Gustavo A. Madero,30 a 44,Mujer,19822,.082551599,1636.3378,17129.227,22514.773
+Satisfaccion mínima,Gustavo A. Madero, 45 a 59,Hombre,19312,.08143267,1572.6277,16724.068,21899.932
+Satisfaccion mínima,Gustavo A. Madero, 45 a 59,Mujer,21734,.079718143,1732.5941,18882.826,24585.174
+Satisfaccion mínima,Gustavo A. Madero,60 a 106,Hombre,17646,.087149844,1537.8462,15115.305,20176.695
+Satisfaccion mínima,Gustavo A. Madero,60 a 106,Mujer,23998,.088038981,2112.7595,20521.221,27474.779
+Satisfaccion mínima,Iztacalco,0 a 11,Hombre,5165,.15348215,792.73529,3860.4668,6469.5332
+Satisfaccion mínima,Iztacalco,0 a 11,Mujer,4807,.16291615,783.13794,3518.2603,6095.7397
+Satisfaccion mínima,Iztacalco,12 a 29,Hombre,9266,.10737561,994.94238,7628.7129,10903.287
+Satisfaccion mínima,Iztacalco,12 a 29,Mujer,9618,.11342783,1090.9489,7822.7236,11413.276
+Satisfaccion mínima,Iztacalco,30 a 44,Hombre,8251,.13928998,1149.2815,6359.7305,10142.27
+Satisfaccion mínima,Iztacalco,30 a 44,Mujer,9308,.15976433,1487.0864,6860.8354,11755.164
+Satisfaccion mínima,Iztacalco, 45 a 59,Hombre,7390,.1051634,777.15753,6111.1016,8668.8984
+Satisfaccion mínima,Iztacalco, 45 a 59,Mujer,9006,.096028328,864.83118,7582.8252,10429.175
+Satisfaccion mínima,Iztacalco,60 a 106,Hombre,5689,.091844469,522.50323,4829.1636,6548.8364
+Satisfaccion mínima,Iztacalco,60 a 106,Mujer,7278,.089002833,647.76263,6212.0352,8343.9648
+Satisfaccion mínima,Iztapalapa,0 a 11,Hombre,14057,.08827655,1240.9034,12014.957,16099.043
+Satisfaccion mínima,Iztapalapa,0 a 11,Mujer,13715,.10207326,1399.9348,11411.253,16018.747
+Satisfaccion mínima,Iztapalapa,12 a 29,Hombre,37607,.069401875,2609.9963,33311.965,41902.035
+Satisfaccion mínima,Iztapalapa,12 a 29,Mujer,35180,.082930513,2917.4956,30378.939,39981.059
+Satisfaccion mínima,Iztapalapa,30 a 44,Hombre,23085,.081578359,1883.2365,19985.928,26184.072
+Satisfaccion mínima,Iztapalapa,30 a 44,Mujer,24268,.079615973,1932.1205,21088.482,27447.518
+Satisfaccion mínima,Iztapalapa, 45 a 59,Hombre,22261,.083433397,1857.3109,19204.59,25317.41
+Satisfaccion mínima,Iztapalapa, 45 a 59,Mujer,30541,.077236481,2358.8794,26659.203,34422.797
+Satisfaccion mínima,Iztapalapa,60 a 106,Hombre,20175,.092970662,1875.6831,17088.357,23261.643
+Satisfaccion mínima,Iztapalapa,60 a 106,Mujer,26336,.093020819,2449.7964,22304.59,30367.41
+Satisfaccion mínima,La Magdalena Contreras,0 a 11,Hombre,2174,.10629475,231.08478,1793.7245,2554.2754
+Satisfaccion mínima,La Magdalena Contreras,0 a 11,Mujer,1812,.12639385,229.02567,1435.113,2188.887
+Satisfaccion mínima,La Magdalena Contreras,12 a 29,Hombre,4312,.10058405,433.71841,3598.2686,5025.7314
+Satisfaccion mínima,La Magdalena Contreras,12 a 29,Mujer,4448,.10353231,460.51175,3690.1772,5205.8228
+Satisfaccion mínima,La Magdalena Contreras,30 a 44,Hombre,3008,.1242687,373.80026,2392.8704,3623.1296
+Satisfaccion mínima,La Magdalena Contreras,30 a 44,Mujer,3364,.10880866,366.03232,2761.6536,3966.3464
+Satisfaccion mínima,La Magdalena Contreras, 45 a 59,Hombre,3100,.10674778,330.91812,2555.4377,3644.5623
+Satisfaccion mínima,La Magdalena Contreras, 45 a 59,Mujer,3862,.10878834,420.14059,3170.6123,4553.3877
+Satisfaccion mínima,La Magdalena Contreras,60 a 106,Hombre,2402,.10483062,251.80313,1987.6302,2816.3699
+Satisfaccion mínima,La Magdalena Contreras,60 a 106,Mujer,3475,.098843448,343.48096,2909.7642,4040.2358
+Satisfaccion mínima,Milpa Alta,0 a 11,Hombre,698,.20321025,141.84076,464.58542,931.41461
+Satisfaccion mínima,Milpa Alta,0 a 11,Mujer,651,.22701685,147.78798,407.79861,894.20142
+Satisfaccion mínima,Milpa Alta,12 a 29,Hombre,2666,.14941567,398.34216,2010.4841,3321.5159
+Satisfaccion mínima,Milpa Alta,12 a 29,Mujer,2410,.18951277,456.72577,1658.4073,3161.5925
+Satisfaccion mínima,Milpa Alta,30 a 44,Hombre,1109,.18837202,208.90456,765.22455,1452.7755
+Satisfaccion mínima,Milpa Alta,30 a 44,Mujer,1497,.17440294,261.08118,1067.3622,1926.6378
+Satisfaccion mínima,Milpa Alta, 45 a 59,Hombre,1294,.16194206,209.55302,949.15741,1638.8427
+Satisfaccion mínima,Milpa Alta, 45 a 59,Mujer,1464,.1622019,237.46358,1073.2275,1854.7725
+Satisfaccion mínima,Milpa Alta,60 a 106,Hombre,951,.18198977,173.07228,666.19049,1235.8094
+Satisfaccion mínima,Milpa Alta,60 a 106,Mujer,1116,.19341128,215.84698,760.79999,1471.2
+Satisfaccion mínima,Álvaro Obregón,0 a 11,Hombre,6695,.1292388,865.25378,5271.1294,8118.8706
+Satisfaccion mínima,Álvaro Obregón,0 a 11,Mujer,6245,.16909741,1056.0133,4507.2139,7982.7861
+Satisfaccion mínima,Álvaro Obregón,12 a 29,Hombre,14134,.11126367,1572.6007,11546.112,16721.889
+Satisfaccion mínima,Álvaro Obregón,12 a 29,Mujer,14768,.10223667,1509.8312,12283.406,17252.594
+Satisfaccion mínima,Álvaro Obregón,30 a 44,Hombre,12565,.10912184,1371.116,10308.678,14821.322
+Satisfaccion mínima,Álvaro Obregón,30 a 44,Mujer,13230,.12559073,1661.5653,10495.711,15964.289
+Satisfaccion mínima,Álvaro Obregón, 45 a 59,Hombre,11313,.10777143,1219.2181,9306.6426,13319.357
+Satisfaccion mínima,Álvaro Obregón, 45 a 59,Mujer,11731,.11977537,1405.0848,9418.7783,14043.222
+Satisfaccion mínima,Álvaro Obregón,60 a 106,Hombre,7419,.11246497,834.37762,6045.9399,8792.0605
+Satisfaccion mínima,Álvaro Obregón,60 a 106,Mujer,9715,.1174423,1140.9519,7837.438,11592.563
+Satisfaccion mínima,Tláhuac,0 a 11,Hombre,3420,.15637282,534.79504,2539.9358,4300.064
+Satisfaccion mínima,Tláhuac,0 a 11,Mujer,3355,.13880788,465.70044,2588.6387,4121.3613
+Satisfaccion mínima,Tláhuac,12 a 29,Hombre,8849,.136437,1207.3311,6862.2036,10835.796
+Satisfaccion mínima,Tláhuac,12 a 29,Mujer,7900,.13846938,1093.9081,6099.8535,9700.1465
+Satisfaccion mínima,Tláhuac,30 a 44,Hombre,4978,.11381754,566.58374,4045.624,5910.376
+Satisfaccion mínima,Tláhuac,30 a 44,Mujer,5574,.12298277,685.50598,4445.9243,6702.0757
+Satisfaccion mínima,Tláhuac, 45 a 59,Hombre,5151,.10712422,551.79688,4242.9575,6059.0425
+Satisfaccion mínima,Tláhuac, 45 a 59,Mujer,6415,.12236105,784.94611,5123.2847,7706.7153
+Satisfaccion mínima,Tláhuac,60 a 106,Hombre,3781,.11736404,443.75345,3050.7549,4511.2451
+Satisfaccion mínima,Tláhuac,60 a 106,Mujer,4007,.17609276,705.6037,2845.8513,5168.1484
+Satisfaccion mínima,Tlalpan,0 a 11,Hombre,6694,.14468943,968.55096,5100.1426,8287.8574
+Satisfaccion mínima,Tlalpan,0 a 11,Mujer,6068,.18922794,1148.2352,4178.4526,7957.5474
+Satisfaccion mínima,Tlalpan,12 a 29,Hombre,12696,.11190796,1420.7834,10357.944,15034.056
+Satisfaccion mínima,Tlalpan,12 a 29,Mujer,12439,.11445865,1423.7511,10096.061,14781.939
+Satisfaccion mínima,Tlalpan,30 a 44,Hombre,9888,.12083279,1194.7947,7921.834,11854.166
+Satisfaccion mínima,Tlalpan,30 a 44,Mujer,11917,.13688877,1631.3035,9232.5107,14601.489
+Satisfaccion mínima,Tlalpan, 45 a 59,Hombre,8880,.11058947,982.03455,7263.9541,10496.046
+Satisfaccion mínima,Tlalpan, 45 a 59,Mujer,10781,.11148172,1201.8844,8803.167,12758.833
+Satisfaccion mínima,Tlalpan,60 a 106,Hombre,6612,.12467498,824.35095,5255.4395,7968.5605
+Satisfaccion mínima,Tlalpan,60 a 106,Mujer,7251,.10725319,777.69287,5971.2207,8530.7793
+Satisfaccion mínima,Xochimilco,0 a 11,Hombre,3151,.16913936,532.95813,2273.9587,4028.0413
+Satisfaccion mínima,Xochimilco,0 a 11,Mujer,2803,.16259164,455.74435,2053.0225,3552.9775
+Satisfaccion mínima,Xochimilco,12 a 29,Hombre,7412,.18143526,1344.7982,5198.9863,9625.0137
+Satisfaccion mínima,Xochimilco,12 a 29,Mujer,7379,.14079691,1038.9404,5669.3091,9088.6914
+Satisfaccion mínima,Xochimilco,30 a 44,Hombre,4816,.14392583,693.14679,3675.3506,5956.6494
+Satisfaccion mínima,Xochimilco,30 a 44,Mujer,5525,.1348505,745.04901,4298.9399,6751.0601
+Satisfaccion mínima,Xochimilco, 45 a 59,Hombre,4582,.16758545,767.87653,3318.3745,5845.6255
+Satisfaccion mínima,Xochimilco, 45 a 59,Mujer,6064,.15944499,966.87439,4472.9019,7655.0981
+Satisfaccion mínima,Xochimilco,60 a 106,Hombre,4283,.15191041,650.63232,3212.3127,5353.687
+Satisfaccion mínima,Xochimilco,60 a 106,Mujer,4756,.16526268,785.98932,3462.5679,6049.4321
+Satisfaccion mínima,Benito Juárez,0 a 11,Hombre,4866,.1590316,773.84778,3592.5483,6139.4517
+Satisfaccion mínima,Benito Juárez,0 a 11,Mujer,4381,.14514893,635.89752,3334.5605,5427.4395
+Satisfaccion mínima,Benito Juárez,12 a 29,Hombre,7850,.11821581,927.99408,6322.8833,9377.1162
+Satisfaccion mínima,Benito Juárez,12 a 29,Mujer,7703,.11778945,907.33215,6209.8848,9196.1152
+Satisfaccion mínima,Benito Juárez,30 a 44,Hombre,9486,.11886838,1127.5854,7630.4336,11341.566
+Satisfaccion mínima,Benito Juárez,30 a 44,Mujer,9751,.11726485,1143.4496,7869.3276,11632.672
+Satisfaccion mínima,Benito Juárez, 45 a 59,Hombre,5548,.11744777,651.60022,4475.7202,6620.2798
+Satisfaccion mínima,Benito Juárez, 45 a 59,Mujer,6595,.096802227,638.41064,5544.4248,7645.5752
+Satisfaccion mínima,Benito Juárez,60 a 106,Hombre,4569,.12359914,564.72449,3639.6836,5498.3164
+Satisfaccion mínima,Benito Juárez,60 a 106,Mujer,7286,.096937403,706.28589,6123.7285,8448.2715
+Satisfaccion mínima,Cuauhtémoc,0 a 11,Hombre,5362,.26871812,1440.8666,2990.8953,7733.105
+Satisfaccion mínima,Cuauhtémoc,0 a 11,Mujer,5300,.22998983,1218.9462,3294.0898,7305.9102
+Satisfaccion mínima,Cuauhtémoc,12 a 29,Hombre,11618,.17539449,2037.7332,8264.6855,14971.314
+Satisfaccion mínima,Cuauhtémoc,12 a 29,Mujer,10033,.19526021,1959.0457,6809.1743,13256.825
+Satisfaccion mínima,Cuauhtémoc,30 a 44,Hombre,12907,.19429123,2507.717,8780.2754,17033.725
+Satisfaccion mínima,Cuauhtémoc,30 a 44,Mujer,13040,.19974537,2604.6797,8753.7129,17326.287
+Satisfaccion mínima,Cuauhtémoc, 45 a 59,Hombre,7793,.19765413,1540.3186,5258.2358,10327.764
+Satisfaccion mínima,Cuauhtémoc, 45 a 59,Mujer,8892,.18138461,1612.8719,6237.8413,11546.158
+Satisfaccion mínima,Cuauhtémoc,60 a 106,Hombre,6571,.18685915,1227.8514,4550.4351,8591.5645
+Satisfaccion mínima,Cuauhtémoc,60 a 106,Mujer,9024,.17395253,1569.7477,6440.8071,11607.192
+Satisfaccion mínima,Miguel Hidalgo,0 a 11,Hombre,5255,.18305613,961.95996,3671.9888,6838.0112
+Satisfaccion mínima,Miguel Hidalgo,0 a 11,Mujer,4653,.17921892,833.90564,3280.7163,6025.2837
+Satisfaccion mínima,Miguel Hidalgo,12 a 29,Hombre,7454,.18291767,1363.4683,5210.2627,9697.7373
+Satisfaccion mínima,Miguel Hidalgo,12 a 29,Mujer,8677,.16352853,1418.937,6341.9829,11012.018
+Satisfaccion mínima,Miguel Hidalgo,30 a 44,Hombre,8960,.18142949,1625.6083,6284.8823,11635.117
+Satisfaccion mínima,Miguel Hidalgo,30 a 44,Mujer,10708,.1720797,1842.6294,7675.7505,13740.25
+Satisfaccion mínima,Miguel Hidalgo, 45 a 59,Hombre,6360,.1656076,1053.2644,4626.7373,8093.2627
+Satisfaccion mínima,Miguel Hidalgo, 45 a 59,Mujer,7549,.17216042,1299.6389,5410.3008,9687.6992
+Satisfaccion mínima,Miguel Hidalgo,60 a 106,Hombre,5674,.18734427,1062.9913,3924.7307,7423.2695
+Satisfaccion mínima,Miguel Hidalgo,60 a 106,Mujer,7366,.13966133,1028.7454,5673.0864,9058.9141
+Satisfaccion mínima,Venustiano Carranza,0 a 11,Hombre,4907,.13385473,656.8252,3826.1218,5987.8784
+Satisfaccion mínima,Venustiano Carranza,0 a 11,Mujer,4203,.13886653,583.65607,3242.5298,5163.4702
+Satisfaccion mínima,Venustiano Carranza,12 a 29,Hombre,9186,.1124541,1033.0034,7486.0791,10885.921
+Satisfaccion mínima,Venustiano Carranza,12 a 29,Mujer,10403,.098490447,1024.5962,8716.9141,12089.086
+Satisfaccion mínima,Venustiano Carranza,30 a 44,Hombre,6703,.1010608,677.41052,5588.2461,7817.7539
+Satisfaccion mínima,Venustiano Carranza,30 a 44,Mujer,8762,.11140067,976.09265,7155.7319,10368.268
+Satisfaccion mínima,Venustiano Carranza, 45 a 59,Hombre,6542,.10138088,663.2337,5450.5757,7633.4243
+Satisfaccion mínima,Venustiano Carranza, 45 a 59,Mujer,8149,.095677212,779.67365,6865.9609,9432.0391
+Satisfaccion mínima,Venustiano Carranza,60 a 106,Hombre,5894,.11333719,668.0094,4794.7168,6993.2832
+Satisfaccion mínima,Venustiano Carranza,60 a 106,Mujer,8531,.095665134,816.11926,7187.9858,9874.0146
+Estrato medio,Azcapotzalco,0 a 11,Hombre,4601,.12670915,582.98877,3641.6277,5560.3721
+Estrato medio,Azcapotzalco,0 a 11,Mujer,4148,.11678486,484.42358,3350.8276,4945.1724
+Estrato medio,Azcapotzalco,12 a 29,Hombre,17980,.11458425,2060.2249,14589.673,21370.326
+Estrato medio,Azcapotzalco,12 a 29,Mujer,16751,.10592718,1774.3861,13831.052,19670.947
+Estrato medio,Azcapotzalco,30 a 44,Hombre,11811,.12432496,1468.4021,9394.582,14227.418
+Estrato medio,Azcapotzalco,30 a 44,Mujer,14165,.12257582,1736.2865,11307.749,17022.25
+Estrato medio,Azcapotzalco, 45 a 59,Hombre,13926,.10066269,1401.8285,11619.137,16232.863
+Estrato medio,Azcapotzalco, 45 a 59,Mujer,18278,.096889436,1770.9451,15363.715,21192.285
+Estrato medio,Azcapotzalco,60 a 106,Hombre,13879,.084530532,1173.1992,11948.371,15809.629
+Estrato medio,Azcapotzalco,60 a 106,Mujer,17913,.08205463,1469.8446,15494.209,20331.791
+Estrato medio,Coyoacán,0 a 11,Hombre,6042,.12726483,768.93408,4776.6343,7307.3657
+Estrato medio,Coyoacán,0 a 11,Mujer,5928,.11441848,678.27277,4811.8276,7044.1724
+Estrato medio,Coyoacán,12 a 29,Hombre,28431,.082312264,2340.22,24579.91,32282.09
+Estrato medio,Coyoacán,12 a 29,Mujer,27927,.083901398,2343.1145,24071.146,31782.854
+Estrato medio,Coyoacán,30 a 44,Hombre,19971,.093287289,1863.0404,16905.162,23036.838
+Estrato medio,Coyoacán,30 a 44,Mujer,22046,.0984919,2171.3523,18472.801,25619.199
+Estrato medio,Coyoacán, 45 a 59,Hombre,23101,.08833874,2040.7133,19742.781,26459.219
+Estrato medio,Coyoacán, 45 a 59,Mujer,28237,.09233319,2607.2122,23946.545,32527.455
+Estrato medio,Coyoacán,60 a 106,Hombre,28632,.098134443,2809.7854,24008.188,33255.813
+Estrato medio,Coyoacán,60 a 106,Mujer,37385,.10004941,3740.3469,31229.848,43540.152
+Estrato medio,Cuajimalpa de Morelos,0 a 11,Hombre,2041,.41833392,853.81952,635.94592,3446.054
+Estrato medio,Cuajimalpa de Morelos,0 a 11,Mujer,2759,.48839408,1347.4792,541.57434,4976.4258
+Estrato medio,Cuajimalpa de Morelos,12 a 29,Hombre,9571,.40717822,3897.103,3157.8877,15984.112
+Estrato medio,Cuajimalpa de Morelos,12 a 29,Mujer,9818,.41002554,4025.6309,3193.3809,16442.619
+Estrato medio,Cuajimalpa de Morelos,30 a 44,Hombre,6505,.47585189,3095.4167,1411.1508,11598.85
+Estrato medio,Cuajimalpa de Morelos,30 a 44,Mujer,7256,.51985466,3772.0654,1048.6508,13463.35
+Estrato medio,Cuajimalpa de Morelos, 45 a 59,Hombre,7249,.49913287,3618.2144,1294.8297,13203.17
+Estrato medio,Cuajimalpa de Morelos, 45 a 59,Mujer,7845,.48591036,3811.9668,1571.9886,14118.012
+Estrato medio,Cuajimalpa de Morelos,60 a 106,Hombre,6086,.62014449,3774.1992,-124.8607,12296.86
+Estrato medio,Cuajimalpa de Morelos,60 a 106,Mujer,7657,.63797897,4885.0054,-381.81424,15695.814
+Estrato medio,Gustavo A. Madero,0 a 11,Hombre,7778,.10894225,847.35284,6383.5874,9172.4121
+Estrato medio,Gustavo A. Madero,0 a 11,Mujer,9028,.1320896,1192.505,7065.6016,10990.398
+Estrato medio,Gustavo A. Madero,12 a 29,Hombre,45394,.074226081,3369.4187,39849.25,50938.75
+Estrato medio,Gustavo A. Madero,12 a 29,Mujer,43097,.069125466,2979.1001,38194.563,47999.438
+Estrato medio,Gustavo A. Madero,30 a 44,Hombre,25064,.094609514,2371.2927,21161.777,28966.223
+Estrato medio,Gustavo A. Madero,30 a 44,Mujer,25325,.10241836,2593.7449,21056.707,29593.293
+Estrato medio,Gustavo A. Madero, 45 a 59,Hombre,32965,.080730088,2661.2673,28585.592,37344.41
+Estrato medio,Gustavo A. Madero, 45 a 59,Mujer,42164,.082487896,3478.0195,36440.535,47887.465
+Estrato medio,Gustavo A. Madero,60 a 106,Hombre,34808,.088576332,3083.1648,29734.313,39881.688
+Estrato medio,Gustavo A. Madero,60 a 106,Mujer,43878,.097503804,4278.272,36837.633,50918.367
+Estrato medio,Iztacalco,0 a 11,Hombre,3412,.14965639,510.62759,2571.7061,4252.2939
+Estrato medio,Iztacalco,0 a 11,Mujer,3456,.15732715,543.72266,2561.2444,4350.7554
+Estrato medio,Iztacalco,12 a 29,Hombre,14435,.1168438,1686.6403,11659.447,17210.553
+Estrato medio,Iztacalco,12 a 29,Mujer,16909,.12276927,2075.9058,13492.868,20325.131
+Estrato medio,Iztacalco,30 a 44,Hombre,11102,.17496705,1942.4843,7905.4282,14298.572
+Estrato medio,Iztacalco,30 a 44,Mujer,11734,.1662184,1950.4067,8524.3906,14943.609
+Estrato medio,Iztacalco, 45 a 59,Hombre,11489,.10031543,1152.5239,9592.3945,13385.605
+Estrato medio,Iztacalco, 45 a 59,Mujer,14479,.094480902,1367.989,12227.823,16730.176
+Estrato medio,Iztacalco,60 a 106,Hombre,10883,.091980778,1001.0268,9235.7002,12530.3
+Estrato medio,Iztacalco,60 a 106,Mujer,13915,.089924224,1251.2955,11855.855,15974.145
+Estrato medio,Iztapalapa,0 a 11,Hombre,12365,.13030583,1611.2316,9713.541,15016.459
+Estrato medio,Iztapalapa,0 a 11,Mujer,9986,.12095165,1207.8232,7998.3936,11973.606
+Estrato medio,Iztapalapa,12 a 29,Hombre,52672,.068812519,3624.4932,46707.496,58636.504
+Estrato medio,Iztapalapa,12 a 29,Mujer,52813,.069703192,3681.2346,46755.121,58870.879
+Estrato medio,Iztapalapa,30 a 44,Hombre,25586,.08824113,2257.7375,21870.645,29301.355
+Estrato medio,Iztapalapa,30 a 44,Mujer,27187,.10319497,2805.5618,22570.139,31803.861
+Estrato medio,Iztapalapa, 45 a 59,Hombre,31837,.088608883,2821.041,27194.666,36479.332
+Estrato medio,Iztapalapa, 45 a 59,Mujer,40542,.087868609,3562.3691,34679.73,46404.27
+Estrato medio,Iztapalapa,60 a 106,Hombre,34296,.10135493,3476.0686,28575.746,40016.254
+Estrato medio,Iztapalapa,60 a 106,Mujer,37450,.10963304,4105.7573,30693.523,44206.477
+Estrato medio,La Magdalena Contreras,0 a 11,Hombre,2147,.14296255,306.94058,1641.8955,2652.1045
+Estrato medio,La Magdalena Contreras,0 a 11,Mujer,1820,.20340715,370.20102,1210.7935,2429.2065
+Estrato medio,La Magdalena Contreras,12 a 29,Hombre,7519,.10575005,795.13464,6210.5186,8827.4814
+Estrato medio,La Magdalena Contreras,12 a 29,Mujer,8365,.10747916,899.06317,6885.4927,9844.5078
+Estrato medio,La Magdalena Contreras,30 a 44,Hombre,3998,.1310986,524.1322,3135.4827,4860.5171
+Estrato medio,La Magdalena Contreras,30 a 44,Mujer,4955,.13700269,678.84833,3837.8801,6072.1196
+Estrato medio,La Magdalena Contreras, 45 a 59,Hombre,6311,.11658394,735.76123,5100.2236,7521.7764
+Estrato medio,La Magdalena Contreras, 45 a 59,Mujer,7626,.12623017,962.63123,6041.8843,9210.1162
+Estrato medio,La Magdalena Contreras,60 a 106,Hombre,6113,.15409844,942.00378,4562.8291,7663.1709
+Estrato medio,La Magdalena Contreras,60 a 106,Mujer,7981,.17943442,1432.066,5624.3774,10337.622
+Estrato medio,Milpa Alta,0 a 11,Hombre,583,.2218089,129.31459,370.19861,795.80139
+Estrato medio,Milpa Alta,0 a 11,Mujer,802,.23751526,190.48724,488.53226,1115.4678
+Estrato medio,Milpa Alta,12 a 29,Hombre,3239,.17252545,558.80994,2319.4167,4158.5835
+Estrato medio,Milpa Alta,12 a 29,Mujer,2938,.13586217,399.16302,2281.1333,3594.8667
+Estrato medio,Milpa Alta,30 a 44,Hombre,1079,.21434224,231.27527,698.41107,1459.589
+Estrato medio,Milpa Alta,30 a 44,Mujer,1244,.19598065,243.79993,842.80035,1645.1996
+Estrato medio,Milpa Alta, 45 a 59,Hombre,1859,.15745725,292.71304,1377.3085,2340.6917
+Estrato medio,Milpa Alta, 45 a 59,Mujer,2319,.15238979,353.39194,1737.4546,2900.5454
+Estrato medio,Milpa Alta,60 a 106,Hombre,1146,.16498992,189.07845,834.85059,1457.1494
+Estrato medio,Milpa Alta,60 a 106,Mujer,1255,.1806154,226.67232,881.98572,1628.0143
+Estrato medio,Álvaro Obregón,0 a 11,Hombre,6193,.15083842,934.1424,4655.7656,7730.2344
+Estrato medio,Álvaro Obregón,0 a 11,Mujer,4752,.1329774,631.90857,3712.1248,5791.875
+Estrato medio,Álvaro Obregón,12 a 29,Hombre,28464,.14228326,4049.9509,21799.359,35128.641
+Estrato medio,Álvaro Obregón,12 a 29,Mujer,28085,.11083992,3112.939,22962.316,33207.684
+Estrato medio,Álvaro Obregón,30 a 44,Hombre,20501,.24811639,5086.6343,12130.383,28871.617
+Estrato medio,Álvaro Obregón,30 a 44,Mujer,19798,.22372514,4429.3105,12509.082,27086.918
+Estrato medio,Álvaro Obregón, 45 a 59,Hombre,21852,.12573767,2747.6194,17330.49,26373.51
+Estrato medio,Álvaro Obregón, 45 a 59,Mujer,26560,.14724895,3910.9321,20124.131,32995.871
+Estrato medio,Álvaro Obregón,60 a 106,Hombre,20619,.12750952,2629.1189,16292.495,24945.504
+Estrato medio,Álvaro Obregón,60 a 106,Mujer,26902,.14046493,3778.7878,20683.588,33120.41
+Estrato medio,Tláhuac,0 a 11,Hombre,2178,.15006082,326.83246,1640.1611,2715.8389
+Estrato medio,Tláhuac,0 a 11,Mujer,2432,.13894935,337.9248,1875.9075,2988.0925
+Estrato medio,Tláhuac,12 a 29,Hombre,13405,.12146334,1628.2161,10725.591,16084.409
+Estrato medio,Tláhuac,12 a 29,Mujer,12658,.12182245,1542.0286,10120.422,15195.578
+Estrato medio,Tláhuac,30 a 44,Hombre,5392,.13179478,710.63745,4222.5679,6561.4321
+Estrato medio,Tláhuac,30 a 44,Mujer,5831,.12496476,728.66949,4631.894,7030.106
+Estrato medio,Tláhuac, 45 a 59,Hombre,8097,.11718812,948.87219,6535.5264,9658.4736
+Estrato medio,Tláhuac, 45 a 59,Mujer,10858,.11799527,1281.1926,8749.6563,12966.344
+Estrato medio,Tláhuac,60 a 106,Hombre,5760,.12453823,717.34021,4579.5376,6940.4624
+Estrato medio,Tláhuac,60 a 106,Mujer,5538,.11020487,610.31458,4533.6602,6542.3398
+Estrato medio,Tlalpan,0 a 11,Hombre,5712,.22584647,1290.035,3589.1052,7834.895
+Estrato medio,Tlalpan,0 a 11,Mujer,6948,.18825178,1307.9734,4795.5859,9100.4141
+Estrato medio,Tlalpan,12 a 29,Hombre,24910,.13480484,3357.9888,19384.059,30435.941
+Estrato medio,Tlalpan,12 a 29,Mujer,21790,.12343384,2689.6235,17363.928,26216.072
+Estrato medio,Tlalpan,30 a 44,Hombre,14598,.168938,2466.1567,10539.667,18656.332
+Estrato medio,Tlalpan,30 a 44,Mujer,17472,.15948269,2786.4817,12886.537,22057.463
+Estrato medio,Tlalpan, 45 a 59,Hombre,17176,.13844298,2377.8965,13262.909,21089.09
+Estrato medio,Tlalpan, 45 a 59,Mujer,22422,.14800994,3318.679,16960.748,27883.252
+Estrato medio,Tlalpan,60 a 106,Hombre,17066,.18870486,3220.4373,11766.416,22365.584
+Estrato medio,Tlalpan,60 a 106,Mujer,21853,.16470991,3599.4058,15929.781,27776.219
+Estrato medio,Xochimilco,0 a 11,Hombre,2349,.16253737,381.80026,1720.7056,2977.2944
+Estrato medio,Xochimilco,0 a 11,Mujer,2395,.18658872,446.87997,1659.6097,3130.3901
+Estrato medio,Xochimilco,12 a 29,Hombre,12233,.13243546,1620.0829,9566.9746,14899.025
+Estrato medio,Xochimilco,12 a 29,Mujer,12094,.12541123,1516.7234,9598.0645,14589.936
+Estrato medio,Xochimilco,30 a 44,Hombre,5279,.12802167,675.82642,4166.853,6391.147
+Estrato medio,Xochimilco,30 a 44,Mujer,6624,.10543092,698.37445,5474.748,7773.252
+Estrato medio,Xochimilco, 45 a 59,Hombre,8492,.11974593,1016.8824,6818.6079,10165.392
+Estrato medio,Xochimilco, 45 a 59,Mujer,9758,.13373975,1305.0326,7610.4253,11905.575
+Estrato medio,Xochimilco,60 a 106,Hombre,7044,.16270156,1146.0697,5158.0161,8929.9844
+Estrato medio,Xochimilco,60 a 106,Mujer,9231,.14915372,1376.8381,6965.2612,11496.739
+Estrato medio,Benito Juárez,0 a 11,Hombre,5977,.13972698,835.14819,4602.6719,7351.3281
+Estrato medio,Benito Juárez,0 a 11,Mujer,6709,.14224149,954.29822,5138.5972,8279.4033
+Estrato medio,Benito Juárez,12 a 29,Hombre,22460,.11152026,2504.7451,18338.166,26581.834
+Estrato medio,Benito Juárez,12 a 29,Mujer,24642,.11161775,2750.4846,20115.775,29168.225
+Estrato medio,Benito Juárez,30 a 44,Hombre,32643,.1136317,3709.2793,26538.973,38747.027
+Estrato medio,Benito Juárez,30 a 44,Mujer,33387,.10970324,3662.6621,27359.686,39414.313
+Estrato medio,Benito Juárez, 45 a 59,Hombre,22613,.10439144,2360.6035,18728.367,26497.633
+Estrato medio,Benito Juárez, 45 a 59,Mujer,28110,.10827383,3043.5774,23101.459,33118.543
+Estrato medio,Benito Juárez,60 a 106,Hombre,22926,.094654702,2170.0537,19354.938,26497.063
+Estrato medio,Benito Juárez,60 a 106,Mujer,33058,.094748303,3132.1895,27903.637,38212.363
+Estrato medio,Cuauhtémoc,0 a 11,Hombre,5012,.25564149,1281.2751,2903.5205,7120.4795
+Estrato medio,Cuauhtémoc,0 a 11,Mujer,4659,.21588753,1005.82,3003.8123,6314.1875
+Estrato medio,Cuauhtémoc,12 a 29,Hombre,22093,.22004588,4861.4736,14092.91,30093.09
+Estrato medio,Cuauhtémoc,12 a 29,Mujer,22942,.21448202,4920.6465,14844.534,31039.467
+Estrato medio,Cuauhtémoc,30 a 44,Hombre,28319,.21101169,5975.6401,18485.426,38152.574
+Estrato medio,Cuauhtémoc,30 a 44,Mujer,25751,.22387213,5764.9312,16264.171,35237.828
+Estrato medio,Cuauhtémoc, 45 a 59,Hombre,19114,.22771634,4352.5703,11951.366,26276.635
+Estrato medio,Cuauhtémoc, 45 a 59,Mujer,20784,.22846323,4748.3799,12970.018,28597.982
+Estrato medio,Cuauhtémoc,60 a 106,Hombre,16075,.15576874,2503.9824,11954.421,20195.58
+Estrato medio,Cuauhtémoc,60 a 106,Mujer,21826,.15507966,3384.7686,16255.99,27396.01
+Estrato medio,Miguel Hidalgo,0 a 11,Hombre,4596,.17524074,805.40643,3270.615,5921.3853
+Estrato medio,Miguel Hidalgo,0 a 11,Mujer,4900,.14726573,721.60211,3712.5242,6087.4756
+Estrato medio,Miguel Hidalgo,12 a 29,Hombre,16510,.16227631,2679.1819,12101.111,20918.889
+Estrato medio,Miguel Hidalgo,12 a 29,Mujer,17487,.13564764,2372.0703,13583.497,21390.502
+Estrato medio,Miguel Hidalgo,30 a 44,Hombre,19504,.17569047,3426.667,13865.042,25142.959
+Estrato medio,Miguel Hidalgo,30 a 44,Mujer,20058,.15915734,3192.3779,14804.591,25311.41
+Estrato medio,Miguel Hidalgo, 45 a 59,Hombre,16634,.15717435,2614.438,12331.654,20936.346
+Estrato medio,Miguel Hidalgo, 45 a 59,Mujer,19441,.16615234,3230.1677,14125.403,24756.598
+Estrato medio,Miguel Hidalgo,60 a 106,Hombre,17052,.1552199,2646.8098,12696.383,21407.617
+Estrato medio,Miguel Hidalgo,60 a 106,Mujer,22114,.14815493,3276.2981,16722.49,27505.51
+Estrato medio,Venustiano Carranza,0 a 11,Hombre,3253,.1489159,484.4234,2455.8279,4050.1721
+Estrato medio,Venustiano Carranza,0 a 11,Mujer,3037,.14379962,436.71945,2318.3301,3755.6699
+Estrato medio,Venustiano Carranza,12 a 29,Hombre,15189,.095522285,1450.8879,12801.404,17576.596
+Estrato medio,Venustiano Carranza,12 a 29,Mujer,14440,.097446643,1407.1295,12124.413,16755.586
+Estrato medio,Venustiano Carranza,30 a 44,Hombre,10021,.10854843,1087.7638,8230.9648,11811.035
+Estrato medio,Venustiano Carranza,30 a 44,Mujer,9811,.11375853,1116.085,7974.3594,11647.641
+Estrato medio,Venustiano Carranza, 45 a 59,Hombre,11810,.10079163,1190.3492,9851.1494,13768.851
+Estrato medio,Venustiano Carranza, 45 a 59,Mujer,14663,.098466851,1443.8195,12287.036,17038.965
+Estrato medio,Venustiano Carranza,60 a 106,Hombre,11235,.089364924,1004.015,9582.7832,12887.217
+Estrato medio,Venustiano Carranza,60 a 106,Mujer,16445,.084946327,1396.9423,14146.178,18743.822
+Estrato alto,Azcapotzalco,12 a 29,Hombre,426,.28086796,119.64975,229.10315,622.89685
+Estrato alto,Azcapotzalco,12 a 29,Mujer,473,.25548354,120.84372,274.13834,671.86163
+Estrato alto,Azcapotzalco, 45 a 59,Hombre,50,.70488954,35.244476,-7.998672,107.99867
+Estrato alto,Azcapotzalco, 45 a 59,Mujer,121,.44064599,53.318165,33.259083,208.74092
+Estrato alto,Azcapotzalco,60 a 106,Hombre,24,1,24,-15.494644,63.494644
+Estrato alto,Azcapotzalco,60 a 106,Mujer,73,.57355613,41.869595,4.0989676,141.90103
+Estrato alto,Coyoacán,0 a 11,Hombre,33,1,33,-21.305136,87.305138
+Estrato alto,Coyoacán,0 a 11,Mujer,32,1,32,-20.659527,84.659523
+Estrato alto,Coyoacán,12 a 29,Hombre,956,.21138653,202.08553,623.44598,1288.554
+Estrato alto,Coyoacán,12 a 29,Mujer,500,.30890518,154.45259,245.83124,754.16876
+Estrato alto,Coyoacán,30 a 44,Hombre,36,1,36,-23.241966,95.241966
+Estrato alto,Coyoacán, 45 a 59,Hombre,373,.31857947,118.83014,177.4519,568.5481
+Estrato alto,Coyoacán, 45 a 59,Mujer,670,.24185036,162.03973,403.34576,936.65424
+Estrato alto,Coyoacán,60 a 106,Hombre,672,.31713879,213.11728,321.29205,1022.7079
+Estrato alto,Coyoacán,60 a 106,Mujer,408,.27815339,113.48659,221.24532,594.7547
+Estrato alto,Cuajimalpa de Morelos,12 a 29,Hombre,339,.38568792,130.74821,123.83942,554.16058
+Estrato alto,Cuajimalpa de Morelos,12 a 29,Mujer,301,.67360181,202.75415,-32.654282,634.6543
+Estrato alto,Cuajimalpa de Morelos, 45 a 59,Hombre,11,.73293251,8.0622578,-2.2673335,24.267334
+Estrato alto,Cuajimalpa de Morelos, 45 a 59,Mujer,107,.93686634,100.2447,-57.963699,271.96371
+Estrato alto,Cuajimalpa de Morelos,60 a 106,Hombre,241,.83321625,200.80511,-89.446953,571.44696
+Estrato alto,Cuajimalpa de Morelos,60 a 106,Mujer,41,.69828832,28.629822,-6.1135259,88.113525
+Estrato alto,Gustavo A. Madero,12 a 29,Hombre,1356,.21934442,297.43103,866.54449,1845.4556
+Estrato alto,Gustavo A. Madero,12 a 29,Mujer,467,.38624513,180.37648,170.17062,763.82941
+Estrato alto,Gustavo A. Madero, 45 a 59,Hombre,175,.5734551,100.35464,9.8553791,340.14462
+Estrato alto,Gustavo A. Madero, 45 a 59,Mujer,116,.70471388,81.746811,-18.52338,250.52338
+Estrato alto,Gustavo A. Madero,60 a 106,Hombre,58,1,58,-37.445393,153.44539
+Estrato alto,Gustavo A. Madero,60 a 106,Mujer,58,1,58,-37.445393,153.44539
+Estrato alto,Iztacalco,12 a 29,Hombre,387,.33776957,130.71683,171.89107,602.10895
+Estrato alto,Iztacalco,12 a 29,Mujer,126,.40244925,50.708603,42.553406,209.44659
+Estrato alto,Iztacalco,30 a 44,Hombre,19,1,19,-12.266594,50.266594
+Estrato alto,Iztacalco, 45 a 59,Hombre,102,.44193834,45.077709,27.81966,176.18034
+Estrato alto,Iztacalco, 45 a 59,Mujer,21,1,21,-13.557814,55.557816
+Estrato alto,Iztacalco,60 a 106,Hombre,41,.7051059,28.909342,-6.5735064,88.573509
+Estrato alto,Iztapalapa,12 a 29,Hombre,751,.3277185,246.11661,345.98801,1156.012
+Estrato alto,Iztapalapa,12 a 29,Mujer,478,.46462858,222.09245,112.52239,843.4776
+Estrato alto,Iztapalapa,30 a 44,Hombre,85,1,85,-54.876865,224.87686
+Estrato alto,Iztapalapa, 45 a 59,Hombre,160,.7052893,112.84629,-25.701008,345.70102
+Estrato alto,Iztapalapa, 45 a 59,Mujer,93,1,93,-60.041748,246.04175
+Estrato alto,Iztapalapa,60 a 106,Hombre,246,.57509673,141.4738,13.189274,478.81073
+Estrato alto,La Magdalena Contreras,0 a 11,Hombre,13,1,13,-8.3929329,34.392933
+Estrato alto,La Magdalena Contreras,0 a 11,Mujer,12,1,12,-7.7473221,31.747322
+Estrato alto,La Magdalena Contreras,12 a 29,Hombre,265,.27081975,71.767235,146.89911,383.10089
+Estrato alto,La Magdalena Contreras,12 a 29,Mujer,112,.52442145,58.735203,15.344752,208.65524
+Estrato alto,La Magdalena Contreras,30 a 44,Hombre,38,.75127226,28.548346,-8.9794474,84.979446
+Estrato alto,La Magdalena Contreras,30 a 44,Mujer,47,.58402145,27.449007,1.829634,92.170364
+Estrato alto,La Magdalena Contreras, 45 a 59,Hombre,114,.40615758,46.301964,37.805016,190.19499
+Estrato alto,La Magdalena Contreras, 45 a 59,Mujer,121,.44673929,54.055454,32.045795,209.95421
+Estrato alto,La Magdalena Contreras,60 a 106,Hombre,120,.51789963,62.147953,17.728697,222.2713
+Estrato alto,La Magdalena Contreras,60 a 106,Mujer,164,.42662853,69.967079,48.861462,279.13855
+Estrato alto,Milpa Alta,12 a 29,Hombre,83,.48594823,40.333706,16.626446,149.37355
+Estrato alto,Milpa Alta,12 a 29,Mujer,64,.69900638,44.736408,-9.6186876,137.61868
+Estrato alto,Milpa Alta, 45 a 59,Mujer,22,.70027465,15.406043,-3.3523409,47.352341
+Estrato alto,Milpa Alta,60 a 106,Hombre,11,1,11,-7.1017122,29.101711
+Estrato alto,Álvaro Obregón,12 a 29,Hombre,760,.2681092,203.76299,424.68555,1095.3145
+Estrato alto,Álvaro Obregón,12 a 29,Mujer,696,.30460531,212.00529,347.12195,1044.8781
+Estrato alto,Álvaro Obregón,30 a 44,Hombre,65,1,65,-41.964661,171.96466
+Estrato alto,Álvaro Obregón,30 a 44,Mujer,38,1,38,-24.533188,100.53319
+Estrato alto,Álvaro Obregón, 45 a 59,Hombre,388,.46670103,181.08,90.012901,685.98712
+Estrato alto,Álvaro Obregón, 45 a 59,Mujer,523,.4124305,215.70114,168.03999,877.96002
+Estrato alto,Álvaro Obregón,60 a 106,Hombre,742,.36197615,268.5863,300.01166,1183.9883
+Estrato alto,Álvaro Obregón,60 a 106,Mujer,237,.55562383,131.68285,20.301373,453.69864
+Estrato alto,Tláhuac,12 a 29,Hombre,214,.42608511,91.182213,63.949619,364.05038
+Estrato alto,Tláhuac,12 a 29,Mujer,179,.37730974,67.538445,67.858047,290.14194
+Estrato alto,Tláhuac, 45 a 59,Hombre,45,.7038092,31.671413,-7.1188006,97.118797
+Estrato alto,Tláhuac, 45 a 59,Mujer,22,1,22,-14.203424,58.203423
+Estrato alto,Tlalpan,12 a 29,Hombre,680,.32165316,218.72415,320.06531,1039.9347
+Estrato alto,Tlalpan,12 a 29,Mujer,837,.3608717,302.04962,339.94406,1334.0559
+Estrato alto,Tlalpan, 45 a 59,Hombre,64,1,64,-41.319054,169.31905
+Estrato alto,Tlalpan, 45 a 59,Mujer,205,.52639735,107.91146,27.4198,382.5802
+Estrato alto,Tlalpan,60 a 106,Hombre,643,.503546,323.78009,110.18419,1175.8158
+Estrato alto,Tlalpan,60 a 106,Mujer,335,.48449531,162.30592,67.907715,602.09229
+Estrato alto,Xochimilco,12 a 29,Hombre,287,.34777465,99.811325,122.74947,451.25052
+Estrato alto,Xochimilco,12 a 29,Mujer,158,.43851033,69.28463,43.984505,272.0155
+Estrato alto,Xochimilco, 45 a 59,Hombre,31,1,31,-20.013916,82.013916
+Estrato alto,Xochimilco, 45 a 59,Mujer,31,1,31,-20.013916,82.013916
+Estrato alto,Xochimilco,60 a 106,Hombre,31,1,31,-20.013916,82.013916
+Estrato alto,Xochimilco,60 a 106,Mujer,31,1,31,-20.013916,82.013916
+Estrato alto,Benito Juárez,0 a 11,Hombre,65,.70614195,45.899227,-10.532237,140.53224
+Estrato alto,Benito Juárez,0 a 11,Mujer,34,1,34,-21.950747,89.950745
+Estrato alto,Benito Juárez,12 a 29,Hombre,699,.2279654,159.34781,436.77563,961.22437
+Estrato alto,Benito Juárez,12 a 29,Mujer,521,.32252908,168.03764,244.47552,797.52448
+Estrato alto,Benito Juárez,30 a 44,Hombre,314,.48008025,150.74521,65.932159,562.06781
+Estrato alto,Benito Juárez,30 a 44,Mujer,305,.69843251,213.02191,-45.551022,655.55103
+Estrato alto,Benito Juárez, 45 a 59,Hombre,667,.30291769,202.0461,334.51089,999.48914
+Estrato alto,Benito Juárez, 45 a 59,Mujer,687,.25584671,175.76668,397.75656,976.24347
+Estrato alto,Benito Juárez,60 a 106,Hombre,386,.31868079,123.01078,183.5722,588.4278
+Estrato alto,Benito Juárez,60 a 106,Mujer,483,.33450282,161.56485,217.12723,748.8728
+Estrato alto,Cuauhtémoc,12 a 29,Hombre,286,.36213598,103.57089,115.56268,456.43732
+Estrato alto,Cuauhtémoc,12 a 29,Mujer,80,.70301163,56.240929,-12.550648,172.55064
+Estrato alto,Cuauhtémoc,30 a 44,Hombre,182,1,182,-117.50105,481.50107
+Estrato alto,Cuauhtémoc,30 a 44,Mujer,38,1,38,-24.533188,100.53319
+Estrato alto,Cuauhtémoc, 45 a 59,Hombre,373,.35989842,134.24211,152.08981,593.91016
+Estrato alto,Cuauhtémoc, 45 a 59,Mujer,344,.43017945,147.98172,100.47976,587.52026
+Estrato alto,Cuauhtémoc,60 a 106,Hombre,228,.44620046,101.7337,60.585979,395.41403
+Estrato alto,Cuauhtémoc,60 a 106,Mujer,82,.70232427,57.590591,-12.771662,176.77167
+Estrato alto,Miguel Hidalgo,0 a 11,Mujer,37,1,37,-23.887577,97.887573
+Estrato alto,Miguel Hidalgo,12 a 29,Hombre,391,.35557321,139.02911,162.21227,619.78772
+Estrato alto,Miguel Hidalgo,12 a 29,Mujer,258,.3285003,84.753082,118.52947,397.47052
+Estrato alto,Miguel Hidalgo, 45 a 59,Hombre,288,.46333751,133.44121,68.407799,507.59219
+Estrato alto,Miguel Hidalgo, 45 a 59,Mujer,207,.37155107,76.911072,80.434357,333.56564
+Estrato alto,Miguel Hidalgo,60 a 106,Hombre,483,.5128994,247.73039,75.332336,890.66766
+Estrato alto,Miguel Hidalgo,60 a 106,Mujer,173,.53953964,93.340355,19.398163,326.60184
+Estrato alto,Venustiano Carranza,0 a 11,Mujer,26,1,26,-16.785866,68.785866
+Estrato alto,Venustiano Carranza,12 a 29,Hombre,184,.42058635,77.387886,56.6497,311.35031
+Estrato alto,Venustiano Carranza,12 a 29,Mujer,211,.3860153,81.449234,76.966316,345.03369
+Estrato alto,Venustiano Carranza, 45 a 59,Hombre,25,1,25,-16.140255,66.140251
+Estrato alto,Venustiano Carranza, 45 a 59,Mujer,26,1,26,-16.785866,68.785866

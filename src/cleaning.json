@@ -250,5 +250,39 @@
       "ID": "id"
     },
     "drop_na": true
+  },
+  "TempData\\necesidades basicas-5331504368148648080-csv.pkl": {
+    "data_source": {
+      "name": "necesidades basicas",
+      "data_location": "https://datos.cdmx.gob.mx/dataset/dcf71df6-fb65-44c6-9120-bb78ebc709ff/resource/3d309e3b-a935-4e16-8e32-1b96718989b6/download/nbi_2020.csv",
+      "data_file_type": "csv",
+      "data_file_location": "TempData\\necesidades basicas-5331504368148648080-csv.pkl",
+      "data_sheet_name": null,
+      "data_location_z": null,
+      "data_file_type_z": null
+    },
+    "col_values_to_drop": {
+      "e_nbi": [],
+      "alcaldia": [],
+      "grup_eda": [],
+      "sexo": [],
+      "pop_tot": [],
+      "pop_tot_cv": [],
+      "pop_tot_se": [],
+      "pop_tot_low": [],
+      "pop_tot_upp": []
+    },
+    "columns": {
+      "e_nbi": "e_nbi",
+      "alcaldia": "alcaldia",
+      "grup_eda": "grup_eda",
+      "sexo": "sexo",
+      "pop_tot": "pop_tot",
+      "pop_tot_cv": "pop_tot_cv",
+      "pop_tot_se": "pop_tot_se",
+      "pop_tot_low": "pop_tot_low",
+      "pop_tot_upp": "pop_tot_upp"
+    },
+    "drop_na": false
   }
 }
